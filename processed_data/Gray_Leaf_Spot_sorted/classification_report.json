@@ -1,0 +1,4117 @@
+{
+  "total_images": 513,
+  "successful": 513,
+  "failed": 0,
+  "stage_distribution": {
+    "early_stage": 33,
+    "moderate_stage": 185,
+    "severe_stage": 221,
+    "critical_stage": 74
+  },
+  "detailed_results": [
+    {
+      "filename": "00120a18-ff90-46e4-92fb-2b7a10345bd3___RS_GLSp 9357.JPG",
+      "green_pixels": 32118,
+      "lesion_pixels": 18548,
+      "affected_percentage": 36.608376426005606,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655.JPG",
+      "green_pixels": 20736,
+      "lesion_pixels": 17466,
+      "affected_percentage": 45.72011936547825,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "0140764c-6157-4995-9ada-9c10b81af3b8___RS_GLSp 4378.JPG",
+      "green_pixels": 53663,
+      "lesion_pixels": 8463,
+      "affected_percentage": 13.62231593857644,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "0157de0c-5b81-44a1-abe8-eecaa6f1261a___RS_GLSp 4287.JPG",
+      "green_pixels": 47761,
+      "lesion_pixels": 12651,
+      "affected_percentage": 20.941203734357412,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "01a02916-5d4c-4256-936b-6b1a9ee65b11___RS_GLSp 9276.JPG",
+      "green_pixels": 28277,
+      "lesion_pixels": 3443,
+      "affected_percentage": 10.854350567465323,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "02e6c80d-c86f-44ca-9d4c-4b100f92a839___RS_GLSp 4631.JPG",
+      "green_pixels": 35751,
+      "lesion_pixels": 9804,
+      "affected_percentage": 21.52123806387883,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "038464d1-47a9-4169-afb1-72c87e568a95___RS_GLSp 4480.JPG",
+      "green_pixels": 33849,
+      "lesion_pixels": 13256,
+      "affected_percentage": 28.141386264727736,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "045080ca-8b98-4320-adcc-e431f88c1aaa___RS_GLSp 7313.JPG",
+      "green_pixels": 25026,
+      "lesion_pixels": 12490,
+      "affected_percentage": 33.29246188292995,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "05daf90f-9100-499f-a4aa-ebc5dfc20adf___RS_GLSp 7335.JPG",
+      "green_pixels": 43648,
+      "lesion_pixels": 3746,
+      "affected_percentage": 7.903954087015235,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "05f92471-3cd4-441b-af21-1a02304d0b6c___RS_GLSp 7315.JPG",
+      "green_pixels": 37393,
+      "lesion_pixels": 6429,
+      "affected_percentage": 14.67071334033134,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "0657e6c0-5a6d-4ef3-807a-4e31e57fb683___RS_GLSp 7344 copy.jpg",
+      "green_pixels": 44547,
+      "lesion_pixels": 3450,
+      "affected_percentage": 7.187949246827927,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "065fe7da-dcaf-41be-9332-5ec5ebceb94b___RS_GLSp 9337.JPG",
+      "green_pixels": 32299,
+      "lesion_pixels": 10524,
+      "affected_percentage": 24.575578544240244,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "06785548-9756-4410-b3c2-55cc089276ce___RS_GLSp 4288.JPG",
+      "green_pixels": 30047,
+      "lesion_pixels": 10661,
+      "affected_percentage": 26.188955487864796,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "06830ecc-28d2-4ec9-a553-4d7905a12dbf___RS_GLSp 4355 copy.jpg",
+      "green_pixels": 50196,
+      "lesion_pixels": 3045,
+      "affected_percentage": 5.719276497436186,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "06e94cd0-fe77-4af0-b4ae-664fcd78cfff___RS_GLSp 4656.JPG",
+      "green_pixels": 28529,
+      "lesion_pixels": 14213,
+      "affected_percentage": 33.25300641055636,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "07e00695-1271-4cf1-b08d-63e27969b03d___RS_GLSp 9312.JPG",
+      "green_pixels": 24600,
+      "lesion_pixels": 14313,
+      "affected_percentage": 36.78205227044947,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "07f54257-0ec8-4bce-991f-90d46646d4f8___RS_GLSp 4378 copy 2.jpg",
+      "green_pixels": 49317,
+      "lesion_pixels": 4912,
+      "affected_percentage": 9.057884157922883,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "092e84d4-17cf-457d-a786-4f96c5bf076a___RS_GLSp 4434 copy.jpg",
+      "green_pixels": 29836,
+      "lesion_pixels": 4918,
+      "affected_percentage": 14.150889106289924,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "0995786c-d397-439a-bfeb-bd897cd431c8___RS_GLSp 9343.JPG",
+      "green_pixels": 47767,
+      "lesion_pixels": 5681,
+      "affected_percentage": 10.629022601406975,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "0a01cc10-3892-4311-9c48-0ac6ab3c7c43___RS_GLSp 9352.JPG",
+      "green_pixels": 34467,
+      "lesion_pixels": 8987,
+      "affected_percentage": 20.68164035531827,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "0a403456-5c5e-4aad-aa89-a118175c6ddd___RS_GLSp 4501.JPG",
+      "green_pixels": 17581,
+      "lesion_pixels": 28009,
+      "affected_percentage": 61.43671857863566,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "0b5492ee-253d-4a13-ad5a-780cb954b09a___RS_GLSp 4615 copy.jpg",
+      "green_pixels": 31351,
+      "lesion_pixels": 12150,
+      "affected_percentage": 27.930392404772302,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "0ba90f90-3702-438a-908b-85871f3a34cb___RS_GLSp 4342.JPG",
+      "green_pixels": 19972,
+      "lesion_pixels": 13189,
+      "affected_percentage": 39.77262446850215,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "0c5973d2-b9e1-473c-a5d6-8e9854b918b9___RS_GLSp 9340.JPG",
+      "green_pixels": 42446,
+      "lesion_pixels": 4176,
+      "affected_percentage": 8.957144695637252,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "0ce6543f-9694-4b3a-b767-9bc909f54f73___RS_GLSp 4663 copy.jpg",
+      "green_pixels": 40748,
+      "lesion_pixels": 5131,
+      "affected_percentage": 11.18376599315591,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "0d13a6d5-7993-4a5d-beb1-4f38b7805fac___RS_GLSp 9303.JPG",
+      "green_pixels": 33726,
+      "lesion_pixels": 7162,
+      "affected_percentage": 17.516141655253374,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "0dbbcb82-756e-48a6-94f4-3a8f1e1cedda___RS_GLSp 4587.JPG",
+      "green_pixels": 38913,
+      "lesion_pixels": 15489,
+      "affected_percentage": 28.471379728686447,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "0e0ed08d-3021-49a7-9098-7c90afeb2fd5___RS_GLSp 4346.JPG",
+      "green_pixels": 42585,
+      "lesion_pixels": 14176,
+      "affected_percentage": 24.974894734060356,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "0f08ab4f-caf6-4e50-a399-000e4e9841a0___RS_GLSp 4623.JPG",
+      "green_pixels": 17407,
+      "lesion_pixels": 21607,
+      "affected_percentage": 55.38268313938586,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "0f36d500-e463-44ef-82ae-fb1ca5012335___RS_GLSp 9321.JPG",
+      "green_pixels": 36707,
+      "lesion_pixels": 6751,
+      "affected_percentage": 15.534539095218372,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "1157b4eb-dfb3-41b7-a083-77b0ca2e7634___RS_GLSp 4460.JPG",
+      "green_pixels": 18934,
+      "lesion_pixels": 16738,
+      "affected_percentage": 46.92195559542498,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "137762d7-fcd5-405c-a4d5-4096321951d0___RS_GLSp 9345.JPG",
+      "green_pixels": 43140,
+      "lesion_pixels": 7902,
+      "affected_percentage": 15.481368284941812,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "13c0f3a6-6958-455d-bf3e-ad09b5e9e0dc___RS_GLSp 4663.JPG",
+      "green_pixels": 41559,
+      "lesion_pixels": 5927,
+      "affected_percentage": 12.481573516404836,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "13d4d655-79ad-4c3e-be5c-b8e4c33f1f34___RS_GLSp 9291.JPG",
+      "green_pixels": 37700,
+      "lesion_pixels": 2474,
+      "affected_percentage": 6.158211778762383,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "13e25fae-97ee-44c0-92c0-05328de64148___RS_GLSp 4645.JPG",
+      "green_pixels": 5781,
+      "lesion_pixels": 20308,
+      "affected_percentage": 77.8412357698647,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "1424a06a-f143-4ca4-bee1-dbbc1663b5d0___RS_GLSp 4681.JPG",
+      "green_pixels": 22681,
+      "lesion_pixels": 8508,
+      "affected_percentage": 27.27884831190484,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "1468d990-6016-484c-b66a-784d38d67b03___RS_GLSp 4616.JPG",
+      "green_pixels": 25452,
+      "lesion_pixels": 20589,
+      "affected_percentage": 44.71883755782889,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "14913b5b-f425-43f4-8266-e6c353f96781___RS_GLSp 4328.JPG",
+      "green_pixels": 23009,
+      "lesion_pixels": 25131,
+      "affected_percentage": 52.203988367262156,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "150ed8d9-abf5-4811-b976-8878b2d0048d___RS_GLSp 7321.JPG",
+      "green_pixels": 33318,
+      "lesion_pixels": 5247,
+      "affected_percentage": 13.605600933488915,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "15d188d6-bade-4281-931a-82264fdae6a4___RS_GLSp 4450.JPG",
+      "green_pixels": 21587,
+      "lesion_pixels": 22667,
+      "affected_percentage": 51.220228679893346,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "165f35a9-5e03-4ec8-9167-bd346c863e41___RS_GLSp 4289 copy 3.jpg",
+      "green_pixels": 42182,
+      "lesion_pixels": 9058,
+      "affected_percentage": 17.6775956284153,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "171b34fb-183f-4b57-be91-7e02fcebb7df___RS_GLSp 4326.JPG",
+      "green_pixels": 7392,
+      "lesion_pixels": 33621,
+      "affected_percentage": 81.97644649257553,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "1836cc95-03e5-4430-8cc1-cca482b94a0d___RS_GLSp 4289 copy.jpg",
+      "green_pixels": 29854,
+      "lesion_pixels": 10514,
+      "affected_percentage": 26.045382481173206,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "186c5f5d-a8d7-40bf-abe7-cebefa66808c___RS_GLSp 4355 copy 2.jpg",
+      "green_pixels": 57069,
+      "lesion_pixels": 1364,
+      "affected_percentage": 2.3342974004415313,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "18aae193-d119-417b-837a-84f33835e788___RS_GLSp 4497.JPG",
+      "green_pixels": 8995,
+      "lesion_pixels": 27078,
+      "affected_percentage": 75.06445263770686,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "1afa65e8-15a9-46d4-b612-e7a7b23b10b5___RS_GLSp 7326.JPG",
+      "green_pixels": 25141,
+      "lesion_pixels": 7032,
+      "affected_percentage": 21.856836477791937,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "1b1991ac-4e5c-4528-ac3d-096d63fb05aa___RS_GLSp 4491.JPG",
+      "green_pixels": 35933,
+      "lesion_pixels": 8665,
+      "affected_percentage": 19.429122382169602,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "1b3e0f15-bbfb-4629-840f-310c7bf2a17c___RS_GLSp 9335.JPG",
+      "green_pixels": 42097,
+      "lesion_pixels": 2464,
+      "affected_percentage": 5.529498889163169,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "1b4a7e7d-792a-4e22-aefd-617c7ce9fae8___RS_GLSp 4624.JPG",
+      "green_pixels": 32493,
+      "lesion_pixels": 15831,
+      "affected_percentage": 32.76011919543084,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "1b6664a7-03f9-4ced-8dcd-b85a18554aa5___RS_GLSp 7324.JPG",
+      "green_pixels": 22305,
+      "lesion_pixels": 8994,
+      "affected_percentage": 28.735742355985817,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "1effc5b5-4f56-4374-92c8-4acb0b506527___RS_GLSp 7314.JPG",
+      "green_pixels": 29305,
+      "lesion_pixels": 4727,
+      "affected_percentage": 13.889868359191349,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "1f23992c-3a9f-4ebb-a89f-6272ee23c7c4___RS_GLSp 4500 copy.jpg",
+      "green_pixels": 25399,
+      "lesion_pixels": 20476,
+      "affected_percentage": 44.634332425068116,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "1f494486-8d19-45a2-8e34-0562e16b1307___RS_GLSp 4456.JPG",
+      "green_pixels": 21506,
+      "lesion_pixels": 14631,
+      "affected_percentage": 40.48758889780557,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "2045dd77-e896-4c78-b40b-5b93631e4e5c___RS_GLSp 9300.JPG",
+      "green_pixels": 44464,
+      "lesion_pixels": 4548,
+      "affected_percentage": 9.279360156696319,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "206517f4-4d5f-4d16-abab-7e634fc78d0d___RS_GLSp 4412.JPG",
+      "green_pixels": 35141,
+      "lesion_pixels": 12989,
+      "affected_percentage": 26.987325992104715,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "2162861c-60d9-4831-b922-362d70a47b92___RS_GLSp 4554.JPG",
+      "green_pixels": 3468,
+      "lesion_pixels": 26494,
+      "affected_percentage": 88.42533876243242,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "2174d811-b088-4b31-8088-1738630b94d4___RS_GLSp 4467.JPG",
+      "green_pixels": 36386,
+      "lesion_pixels": 3978,
+      "affected_percentage": 9.8553166187692,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "22177231-7c14-423d-a83c-78a63c2dfd9a___RS_GLSp 9286.JPG",
+      "green_pixels": 27115,
+      "lesion_pixels": 21621,
+      "affected_percentage": 44.36350952068287,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "22a04678-7f86-4854-b8d6-4c2a54dca6bc___RS_GLSp 4322.JPG",
+      "green_pixels": 12502,
+      "lesion_pixels": 22027,
+      "affected_percentage": 63.7927539169973,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "22b0a72e-66bf-47ae-86ef-da6e85e31056___RS_GLSp 4405.JPG",
+      "green_pixels": 22851,
+      "lesion_pixels": 19420,
+      "affected_percentage": 45.94166213243122,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "22e876a7-46e4-4b87-b2ac-0668117fb455___RS_GLSp 4469.JPG",
+      "green_pixels": 32045,
+      "lesion_pixels": 11227,
+      "affected_percentage": 25.945183952671474,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "23bdfbf1-c4f2-4a84-9b9a-9e6cc836c974___RS_GLSp 9294.JPG",
+      "green_pixels": 11579,
+      "lesion_pixels": 21319,
+      "affected_percentage": 64.80333150951427,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "23ee1be9-789c-4499-be4b-f99c241ada2d___RS_GLSp 4633.JPG",
+      "green_pixels": 26247,
+      "lesion_pixels": 15810,
+      "affected_percentage": 37.59183964619445,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "24098661-633d-46fb-9542-a12a41dd3223___RS_GLSp 4472.JPG",
+      "green_pixels": 27635,
+      "lesion_pixels": 16482,
+      "affected_percentage": 37.359747942969825,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "241fe005-f805-4e76-bf80-e7a84aa0b9a8___RS_GLSp 9336.JPG",
+      "green_pixels": 24142,
+      "lesion_pixels": 10047,
+      "affected_percentage": 29.386644827283632,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "24776f62-abd9-4187-897d-f61b41a9a9ad___RS_GLSp 3810.JPG",
+      "green_pixels": 41390,
+      "lesion_pixels": 2565,
+      "affected_percentage": 5.835513593447844,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "24f6e3ed-d58d-45eb-b9a7-a7e347e237fb___RS_GLSp 4465.JPG",
+      "green_pixels": 39596,
+      "lesion_pixels": 9856,
+      "affected_percentage": 19.930437596052737,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "2575e82e-964f-418a-bd69-c291dd9c955b___RS_GLSp 9282.JPG",
+      "green_pixels": 28053,
+      "lesion_pixels": 9900,
+      "affected_percentage": 26.08489447474508,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "261e0893-078f-41ae-9445-4942f8828f53___RS_GLSp 7320.JPG",
+      "green_pixels": 36830,
+      "lesion_pixels": 2511,
+      "affected_percentage": 6.382654228413107,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "275ea053-96ab-45d9-9878-3c855ea1a308___RS_GLSp 4496.JPG",
+      "green_pixels": 12442,
+      "lesion_pixels": 26017,
+      "affected_percentage": 67.64866481187758,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "276eaa0e-3c86-4190-8701-fdb5f9148bb1___RS_GLSp 7283.JPG",
+      "green_pixels": 23837,
+      "lesion_pixels": 13811,
+      "affected_percentage": 36.68455163620909,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "2788c3da-4e36-408e-b2e5-a08442f7f432___RS_GLSp 4500.JPG",
+      "green_pixels": 28565,
+      "lesion_pixels": 21791,
+      "affected_percentage": 43.273889903884346,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "27d44f36-eb1b-42df-b32f-ba8373b08e46___RS_GLSp 4416.JPG",
+      "green_pixels": 11626,
+      "lesion_pixels": 25649,
+      "affected_percentage": 68.81019450033534,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "27db0747-841a-454c-aff6-cb506689cca9___RS_GLSp 9347.JPG",
+      "green_pixels": 5478,
+      "lesion_pixels": 25460,
+      "affected_percentage": 82.29361949705863,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "27ea3780-cdea-449f-b427-04ad3d0a7eae___RS_GLSp 9271.JPG",
+      "green_pixels": 40024,
+      "lesion_pixels": 2462,
+      "affected_percentage": 5.794850068257779,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "28132313-02f5-4116-b7e6-5b0d33b1868f___RS_GLSp 7334 copy.jpg",
+      "green_pixels": 29225,
+      "lesion_pixels": 2011,
+      "affected_percentage": 6.438084261749263,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "283e2340-1c6a-4d67-b40b-64620f95912b___RS_GLSp 4470.JPG",
+      "green_pixels": 16475,
+      "lesion_pixels": 16112,
+      "affected_percentage": 49.44302942891337,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "28463ffb-8023-41c0-9084-6b5ade2d6ca3___RS_GLSp 4310.JPG",
+      "green_pixels": 20379,
+      "lesion_pixels": 16903,
+      "affected_percentage": 45.33823292741806,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "287f4726-e68a-43bf-9ec8-49d1e4a34aff___RS_GLSp 4487.JPG",
+      "green_pixels": 24396,
+      "lesion_pixels": 4724,
+      "affected_percentage": 16.222527472527474,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "295e2145-800f-4c3c-9728-e45b1cd8e113___RS_GLSp 4316.JPG",
+      "green_pixels": 31987,
+      "lesion_pixels": 12799,
+      "affected_percentage": 28.57812709328808,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "29d60537-2717-45e1-b608-c19270302f67___RS_GLSp 4558.JPG",
+      "green_pixels": 32464,
+      "lesion_pixels": 15559,
+      "affected_percentage": 32.39905878433251,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "29f064ba-c8cd-47f7-add1-24fe1263f2db___RS_GLSp 9319.JPG",
+      "green_pixels": 33797,
+      "lesion_pixels": 9076,
+      "affected_percentage": 21.169500618104635,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "2a2ad0a4-9f19-4366-88d3-c1c87ffc9f90___RS_GLSp 4385.JPG",
+      "green_pixels": 34632,
+      "lesion_pixels": 6974,
+      "affected_percentage": 16.76200547997885,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "2aca721c-1600-4f8c-8e79-df33973c671c___RS_GLSp 9348.JPG",
+      "green_pixels": 16554,
+      "lesion_pixels": 22362,
+      "affected_percentage": 57.46222633364169,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "2b6bb6a5-3f70-48da-a968-13d840815bbb___RS_GLSp 9277.JPG",
+      "green_pixels": 32073,
+      "lesion_pixels": 13077,
+      "affected_percentage": 28.96345514950166,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "2bfff79a-08ce-4f07-a059-465326ef2ea2___RS_GLSp 4436.JPG",
+      "green_pixels": 35106,
+      "lesion_pixels": 509,
+      "affected_percentage": 1.4291731012213953,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "2c890074-1b01-46cb-9e56-8601d13ec218___RS_GLSp 4469 copy.jpg",
+      "green_pixels": 42700,
+      "lesion_pixels": 8177,
+      "affected_percentage": 16.072095445879278,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "2ca70127-9310-4312-8769-d9d6b43526a1___RS_GLSp 4369.JPG",
+      "green_pixels": 26778,
+      "lesion_pixels": 18310,
+      "affected_percentage": 40.60947480482612,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "2ccec9ab-60e1-4b79-bfdc-b33d387db907___RS_GLSp 4576.JPG",
+      "green_pixels": 41678,
+      "lesion_pixels": 3244,
+      "affected_percentage": 7.221405992609411,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "2e123765-bd5f-461e-a658-7b4c5c4f5564___RS_GLSp 4594.JPG",
+      "green_pixels": 29170,
+      "lesion_pixels": 7040,
+      "affected_percentage": 19.442143054404863,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "2e3967fd-d97c-4985-ab63-4ee8bdb6a0bb___RS_GLSp 4680 copy.jpg",
+      "green_pixels": 17153,
+      "lesion_pixels": 11857,
+      "affected_percentage": 40.87211306446053,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "2e3c83d4-fbbc-4250-a3e6-96bff8d8164a___RS_GLSp 4634.JPG",
+      "green_pixels": 13248,
+      "lesion_pixels": 21909,
+      "affected_percentage": 62.31760389111699,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "2ff35cfb-2145-4844-9755-e977af5f661d___RS_GLSp 4434.JPG",
+      "green_pixels": 31940,
+      "lesion_pixels": 8687,
+      "affected_percentage": 21.38233194673493,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "302d1d00-fe10-4ec1-878c-5ac721c6ec44___RS_GLSp 9356.JPG",
+      "green_pixels": 13405,
+      "lesion_pixels": 20905,
+      "affected_percentage": 60.92975808802098,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "30554ff6-3eef-4d17-8304-de6a8a478f2b___RS_GLSp 4683.JPG",
+      "green_pixels": 42258,
+      "lesion_pixels": 10068,
+      "affected_percentage": 19.240912739364752,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "320c4ca9-7c67-4dcf-b588-55ff6949cded___RS_GLSp 4433.JPG",
+      "green_pixels": 31012,
+      "lesion_pixels": 12192,
+      "affected_percentage": 28.21960929543561,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "32e31361-bb57-4974-bc43-4b8e74d61653___RS_GLSp 4433 copy.jpg",
+      "green_pixels": 34100,
+      "lesion_pixels": 11950,
+      "affected_percentage": 25.950054288816503,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "336c4d7c-6905-4f19-b81a-eb7af7d3fd22___RS_GLSp 4413.JPG",
+      "green_pixels": 32692,
+      "lesion_pixels": 13650,
+      "affected_percentage": 29.454922100901985,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "338c8024-b930-49fa-bf1f-21d7874fb7fb___RS_GLSp 4319.JPG",
+      "green_pixels": 30407,
+      "lesion_pixels": 12754,
+      "affected_percentage": 29.54982507356178,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "346e5b39-b83e-4b5f-a02b-bc01fc230842___RS_GLSp 4311.JPG",
+      "green_pixels": 18103,
+      "lesion_pixels": 16494,
+      "affected_percentage": 47.67465387172298,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "348aafc3-4309-4507-b6b3-cb037711ca48___RS_GLSp 4399.JPG",
+      "green_pixels": 44592,
+      "lesion_pixels": 7397,
+      "affected_percentage": 14.228009771297776,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "34ed1bf6-87eb-49dd-bc0b-fd9d0bd3dd0c___RS_GLSp 4378 copy.jpg",
+      "green_pixels": 46657,
+      "lesion_pixels": 3490,
+      "affected_percentage": 6.959538955470916,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "357866f9-d9f0-49a4-862e-6bfb2cb830c8___RS_GLSp 4291.JPG",
+      "green_pixels": 13432,
+      "lesion_pixels": 28668,
+      "affected_percentage": 68.09501187648456,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "36001a30-9fc6-4955-9a14-49944cc8078a___RS_GLSp 4393.JPG",
+      "green_pixels": 16351,
+      "lesion_pixels": 25731,
+      "affected_percentage": 61.14490756142769,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "36584bae-f3bb-40c0-b866-ed5ba0c2f7ae___RS_GLSp 4577.JPG",
+      "green_pixels": 44090,
+      "lesion_pixels": 3053,
+      "affected_percentage": 6.476040981693995,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "38b8a1b8-b995-42ff-a888-b8d60384ee76___RS_GLSp 9311.JPG",
+      "green_pixels": 33971,
+      "lesion_pixels": 7158,
+      "affected_percentage": 17.403778355904592,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "3980904f-273e-4191-911b-0ebfc12cf02c___RS_GLSp 4448 copy.jpg",
+      "green_pixels": 17289,
+      "lesion_pixels": 21917,
+      "affected_percentage": 55.90215783298474,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "398cdfcf-3bc5-486c-ab4e-8bce2f2bbc23___RS_GLSp 9333.JPG",
+      "green_pixels": 40018,
+      "lesion_pixels": 1791,
+      "affected_percentage": 4.283766653112966,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "3a1f523c-0012-43c3-9475-fc458e3511d4___RS_GLSp 4579.JPG",
+      "green_pixels": 31853,
+      "lesion_pixels": 9257,
+      "affected_percentage": 22.51763561177329,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "3aeb9908-679b-4d53-8925-5b436d0961d8___RS_GLSp 9317.JPG",
+      "green_pixels": 30695,
+      "lesion_pixels": 15272,
+      "affected_percentage": 33.22383448996019,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "3af22715-5f08-4b3b-8c88-6264a73accba___RS_GLSp 7293.JPG",
+      "green_pixels": 49393,
+      "lesion_pixels": 3752,
+      "affected_percentage": 7.059930379151378,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "3b264c40-1333-4dbe-bf91-0cc2bb183167___RS_GLSp 9365.JPG",
+      "green_pixels": 44072,
+      "lesion_pixels": 7794,
+      "affected_percentage": 15.027185439401535,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "3b9cce3e-5b77-444d-957d-71e3a105d66e___RS_GLSp 7289.JPG",
+      "green_pixels": 20710,
+      "lesion_pixels": 10020,
+      "affected_percentage": 32.606573381060855,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "3bc17d8a-7efc-469a-a0af-aa8a68e62e89___RS_GLSp 9323.JPG",
+      "green_pixels": 36748,
+      "lesion_pixels": 4194,
+      "affected_percentage": 10.24375946460847,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "3bc19f2c-2ab4-4a1c-bd0f-e0a322058b8b___RS_GLSp 4423.JPG",
+      "green_pixels": 51253,
+      "lesion_pixels": 4236,
+      "affected_percentage": 7.633945466669069,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "3c53ba48-cb78-4803-b01c-7d10ea13284c___RS_GLSp 4611.JPG",
+      "green_pixels": 42410,
+      "lesion_pixels": 1333,
+      "affected_percentage": 3.0473447180120248,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "3c70ede6-fd2c-4e9c-8c2c-2d6a369564d4___RS_GLSp 4345.JPG",
+      "green_pixels": 42033,
+      "lesion_pixels": 4429,
+      "affected_percentage": 9.532521200120529,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "3caaee0c-993e-4b59-8e88-ab7ee052ed48___RS_GLSp 4643.JPG",
+      "green_pixels": 33077,
+      "lesion_pixels": 9378,
+      "affected_percentage": 22.089270992815923,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "3d30d46e-da0d-402f-97e8-e1d79cdd7a56___RS_GLSp 4638.JPG",
+      "green_pixels": 25116,
+      "lesion_pixels": 20091,
+      "affected_percentage": 44.44223239763753,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "3dc975e5-3570-4dbd-b163-a6f2947fc35f___RS_GLSp 4376.JPG",
+      "green_pixels": 48192,
+      "lesion_pixels": 2771,
+      "affected_percentage": 5.437278025233994,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "3e21011f-edbd-4a4a-ae6d-16e08552169a___RS_GLSp 7310.JPG",
+      "green_pixels": 32854,
+      "lesion_pixels": 4794,
+      "affected_percentage": 12.73374415639609,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "3e52b140-6513-4a97-8ee8-9935a7d4b8b8___RS_GLSp 9279.JPG",
+      "green_pixels": 35174,
+      "lesion_pixels": 9118,
+      "affected_percentage": 20.58611035852976,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "3e5705e7-401a-4327-9d07-3b5a54ce5b38___RS_GLSp 4459.JPG",
+      "green_pixels": 25622,
+      "lesion_pixels": 12983,
+      "affected_percentage": 33.63035876181842,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "3fefc48b-6431-4c5c-acc7-19217866da5b___RS_GLSp 9292.JPG",
+      "green_pixels": 16436,
+      "lesion_pixels": 21643,
+      "affected_percentage": 56.83710181464849,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "40dceef3-f53b-4132-87c0-69bf1046f8c4___RS_GLSp 9362.JPG",
+      "green_pixels": 43051,
+      "lesion_pixels": 8054,
+      "affected_percentage": 15.759710400156541,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "40de2256-a1de-4781-830b-d9a06544fe06___RS_GLSp 4398.JPG",
+      "green_pixels": 40438,
+      "lesion_pixels": 6470,
+      "affected_percentage": 13.792956425343226,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "41759050-8a14-4394-9558-c74ec19a5e50___RS_GLSp 4685.JPG",
+      "green_pixels": 44740,
+      "lesion_pixels": 5620,
+      "affected_percentage": 11.159650516282763,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "42423e5e-790d-4839-a683-abb2d9dce89a___RS_GLSp 7296.JPG",
+      "green_pixels": 36825,
+      "lesion_pixels": 7451,
+      "affected_percentage": 16.828530129189627,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "43a7a5a1-655e-4534-aa3d-ce53628c34b1___RS_GLSp 7302.JPG",
+      "green_pixels": 6195,
+      "lesion_pixels": 14599,
+      "affected_percentage": 70.20775223622199,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "44209d86-9fed-42cd-b5dc-5580166b10ab___RS_GLSp 4684.JPG",
+      "green_pixels": 43538,
+      "lesion_pixels": 4187,
+      "affected_percentage": 8.773179675222629,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "4427063f-9e4a-4aaf-959a-c9afc210f7fa___RS_GLSp 4307.JPG",
+      "green_pixels": 29373,
+      "lesion_pixels": 11271,
+      "affected_percentage": 27.731030410392677,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "457d0a21-a0a5-4fb4-9502-8071991f47b2___RS_GLSp 7285.JPG",
+      "green_pixels": 25528,
+      "lesion_pixels": 2083,
+      "affected_percentage": 7.544094744848068,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "468d93ab-7a44-4ae7-a489-a03d39651009___RS_GLSp 4466.JPG",
+      "green_pixels": 43308,
+      "lesion_pixels": 3233,
+      "affected_percentage": 6.946563245310585,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "48beb71e-555f-4510-9951-a57f7edce204___RS_GLSp 9334.JPG",
+      "green_pixels": 35374,
+      "lesion_pixels": 1560,
+      "affected_percentage": 4.223750473818162,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "4baea4d9-8343-4550-838f-86dfb7672591___RS_GLSp 4639 copy.jpg",
+      "green_pixels": 18611,
+      "lesion_pixels": 14600,
+      "affected_percentage": 43.96133811086688,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "4be4a686-ab64-43d7-9d7c-0939e389aac9___RS_GLSp 9338.JPG",
+      "green_pixels": 36857,
+      "lesion_pixels": 7870,
+      "affected_percentage": 17.595635745746417,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "4c7894c0-29a5-4643-85ff-95ddb85dbd81___RS_GLSp 4605.JPG",
+      "green_pixels": 28626,
+      "lesion_pixels": 12255,
+      "affected_percentage": 29.977251045718063,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "4cd3f6c7-18ed-45eb-ba31-013241482123___RS_GLSp 4292.JPG",
+      "green_pixels": 7432,
+      "lesion_pixels": 25039,
+      "affected_percentage": 77.11188445074066,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "4d603da2-b570-4d8a-ba97-28f99c42dd89___RS_GLSp 7343.JPG",
+      "green_pixels": 46603,
+      "lesion_pixels": 2332,
+      "affected_percentage": 4.765505262082354,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "4f01283d-c07f-4c1f-9a94-186536d98196___RS_GLSp 4486.JPG",
+      "green_pixels": 34094,
+      "lesion_pixels": 4275,
+      "affected_percentage": 11.141807188094557,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "4f3406d0-c000-40ea-91e2-0e41d69f668b___RS_GLSp 4458.JPG",
+      "green_pixels": 29706,
+      "lesion_pixels": 8205,
+      "affected_percentage": 21.64279496715993,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "4f50bad3-aee2-4d6d-a144-5c56f4c1fdd9___RS_GLSp 9297.JPG",
+      "green_pixels": 22125,
+      "lesion_pixels": 20308,
+      "affected_percentage": 47.85897768246412,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "509b6810-db94-46ea-be98-0208c5874a1c___RS_GLSp 4494.JPG",
+      "green_pixels": 29876,
+      "lesion_pixels": 9304,
+      "affected_percentage": 23.746809596733026,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "50a8d45e-07fa-495d-8779-e07715b1c644___RS_GLSp 9358.JPG",
+      "green_pixels": 40252,
+      "lesion_pixels": 12206,
+      "affected_percentage": 23.268138320179954,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "51bec38f-7a7a-43dc-9ab8-aa9dd7d9830c___RS_GLSp 4439.JPG",
+      "green_pixels": 22901,
+      "lesion_pixels": 10653,
+      "affected_percentage": 31.748822793109614,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "527b87bb-91fb-4b6b-bb7f-6ff64b09ef80___RS_GLSp 7305.JPG",
+      "green_pixels": 34977,
+      "lesion_pixels": 406,
+      "affected_percentage": 1.14744368764661,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "52acf240-2625-4b4c-8484-6c93e998b115___RS_GLSp 7337.JPG",
+      "green_pixels": 30431,
+      "lesion_pixels": 4748,
+      "affected_percentage": 13.496688365217885,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "53ef1232-f812-41e7-bb8c-190241c11fc3___RS_GLSp 4617.JPG",
+      "green_pixels": 8813,
+      "lesion_pixels": 25482,
+      "affected_percentage": 74.30237643971425,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "54d4d612-50a4-46cd-b0de-4e65988718f7___RS_GLSp 4637.JPG",
+      "green_pixels": 26056,
+      "lesion_pixels": 21572,
+      "affected_percentage": 45.29268497522466,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "54ff4537-6187-4a07-b478-7a06d159915c___RS_GLSp 9368.JPG",
+      "green_pixels": 35221,
+      "lesion_pixels": 9687,
+      "affected_percentage": 21.570766901220274,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "56861977-2bbb-445d-a956-95fcb62f93f7___RS_GLSp 4607 copy.jpg",
+      "green_pixels": 28128,
+      "lesion_pixels": 14398,
+      "affected_percentage": 33.856934581197386,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "573ad2a6-906a-4d32-af81-0026fc57258f___RS_GLSp 4613.JPG",
+      "green_pixels": 43046,
+      "lesion_pixels": 1953,
+      "affected_percentage": 4.340096446587702,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "5786dc07-0a0f-460b-896b-2bb4a240679e___RS_GLSp 7282.JPG",
+      "green_pixels": 27872,
+      "lesion_pixels": 2851,
+      "affected_percentage": 9.279692738339355,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "57e4abec-e203-4574-85f8-bc321b0e0ac3___RS_GLSp 4662.JPG",
+      "green_pixels": 40456,
+      "lesion_pixels": 2154,
+      "affected_percentage": 5.055151372917155,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "584a0a63-7d44-469c-a0b0-f4d0aaa4c82f___RS_GLSp 4445.JPG",
+      "green_pixels": 46240,
+      "lesion_pixels": 3548,
+      "affected_percentage": 7.126215152245521,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "58599ead-93e9-4ea8-a951-4ea380926f66___RS_GLSp 4649.JPG",
+      "green_pixels": 45372,
+      "lesion_pixels": 9965,
+      "affected_percentage": 18.007842853786798,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "590078f5-c132-47d1-a575-9a05637cdaba___RS_GLSp 9351.JPG",
+      "green_pixels": 20904,
+      "lesion_pixels": 23888,
+      "affected_percentage": 53.330951955706375,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "5958b15a-0ab1-411d-a5f2-99ef49572954___RS_GLSp 9275.JPG",
+      "green_pixels": 33008,
+      "lesion_pixels": 3050,
+      "affected_percentage": 8.45859448666038,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "59726309-40b6-498d-a487-ff2d8fc455a8___RS_GLSp 4686.JPG",
+      "green_pixels": 40996,
+      "lesion_pixels": 5954,
+      "affected_percentage": 12.68157614483493,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "598ba05d-f9b0-46da-803f-ed4276534ede___RS_GLSp 4414.JPG",
+      "green_pixels": 33484,
+      "lesion_pixels": 9193,
+      "affected_percentage": 21.540876818895423,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "59abb5c6-b107-4e6d-8ae7-25bcadc18b3e___RS_GLSp 4476.JPG",
+      "green_pixels": 41929,
+      "lesion_pixels": 8158,
+      "affected_percentage": 16.287659472517817,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "5ac6ef38-097e-4509-9090-1c02cf2c152a___RS_GLSp 4650.JPG",
+      "green_pixels": 39431,
+      "lesion_pixels": 12414,
+      "affected_percentage": 23.944449802295303,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "5afd034f-f65c-4eed-9bde-f3dcb2950072___RS_GLSp 4422.JPG",
+      "green_pixels": 49642,
+      "lesion_pixels": 3964,
+      "affected_percentage": 7.394694623736149,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "5b6fe4ff-01b0-4b9d-ad8d-4c6c8ef909be___RS_GLSp 9302.JPG",
+      "green_pixels": 44053,
+      "lesion_pixels": 2983,
+      "affected_percentage": 6.341950846160388,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "5cbbb4b8-88cc-4d5f-907a-505a2a831b8a___RS_GLSp 4599.JPG",
+      "green_pixels": 4683,
+      "lesion_pixels": 33320,
+      "affected_percentage": 87.67728863510776,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "5cd4836c-b974-4228-b23f-1e70e8c3ea11___RS_GLSp 7328.JPG",
+      "green_pixels": 32312,
+      "lesion_pixels": 7564,
+      "affected_percentage": 18.968803290199617,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "5cfe5cf5-bdba-44b5-8295-c5bda6e34ae3___RS_GLSp 9353 copy.jpg",
+      "green_pixels": 25835,
+      "lesion_pixels": 15419,
+      "affected_percentage": 37.37576962233965,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "5d69a1f2-cead-4661-8014-63e35e131850___RS_GLSp 4337 copy.jpg",
+      "green_pixels": 45027,
+      "lesion_pixels": 6508,
+      "affected_percentage": 12.628310856699333,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "5dcd9141-4aaf-41c7-94a5-0af587f0a58c___RS_GLSp 4391.JPG",
+      "green_pixels": 25397,
+      "lesion_pixels": 17789,
+      "affected_percentage": 41.191589867086556,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "5e673820-c759-49c5-82bb-5c1079c8324c___RS_GLSp 7317.JPG",
+      "green_pixels": 37946,
+      "lesion_pixels": 2554,
+      "affected_percentage": 6.306172839506173,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "5f00e4d0-e48c-4b6b-9602-022fd38cf7e7___RS_GLSp 7331.JPG",
+      "green_pixels": 28997,
+      "lesion_pixels": 4595,
+      "affected_percentage": 13.678852107644676,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "5f34d592-9ebd-4498-955e-bf28944ef9d0___RS_GLSp 9367.JPG",
+      "green_pixels": 35946,
+      "lesion_pixels": 7350,
+      "affected_percentage": 16.976164079822617,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "60360241-19f0-4773-9eca-4ca26fcf49b4___RS_GLSp 4394.JPG",
+      "green_pixels": 13572,
+      "lesion_pixels": 23764,
+      "affected_percentage": 63.64902506963789,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "617766d7-75ff-4b18-b37d-ce2b5a7255bd___RS_GLSp 7312.JPG",
+      "green_pixels": 27173,
+      "lesion_pixels": 1133,
+      "affected_percentage": 4.0026849431216,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "6254c5e3-95a7-41b4-a126-83c92d1c5f37___RS_GLSp 7327.JPG",
+      "green_pixels": 35934,
+      "lesion_pixels": 4988,
+      "affected_percentage": 12.189042568789404,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "629273b6-9eaa-4084-b72b-ac856a9ef899___RS_GLSp 4636.JPG",
+      "green_pixels": 5408,
+      "lesion_pixels": 17290,
+      "affected_percentage": 76.17411225658648,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "62e5f367-b111-478b-a187-88c298dc83be___RS_GLSp 9320.JPG",
+      "green_pixels": 33858,
+      "lesion_pixels": 9987,
+      "affected_percentage": 22.77796784125898,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "636e39bc-897f-4ed7-8262-67f795eea324___RS_GLSp 9314.JPG",
+      "green_pixels": 29531,
+      "lesion_pixels": 16545,
+      "affected_percentage": 35.90806493619238,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "63762409-379e-4299-a46a-5f6db703687e___RS_GLSp 4333.JPG",
+      "green_pixels": 34592,
+      "lesion_pixels": 15102,
+      "affected_percentage": 30.38998671871856,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "63885679-bac0-4326-a535-115a8f27c3d2___RS_GLSp 7319.JPG",
+      "green_pixels": 24477,
+      "lesion_pixels": 5475,
+      "affected_percentage": 18.279246794871796,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "639ec33d-bc8e-469b-8968-71f0ec060d18___RS_GLSp 4320.JPG",
+      "green_pixels": 38422,
+      "lesion_pixels": 10365,
+      "affected_percentage": 21.245413737266077,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "648f5a4f-9fb5-486f-97ac-918c5804ab53___RS_GLSp 4370.JPG",
+      "green_pixels": 46658,
+      "lesion_pixels": 1624,
+      "affected_percentage": 3.3635723458017477,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "656c0edc-3b1f-4d8b-adce-6264b69f7aa8___RS_GLSp 4492.JPG",
+      "green_pixels": 32923,
+      "lesion_pixels": 15688,
+      "affected_percentage": 32.272530908642075,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "659f419d-10c3-42db-9b3a-45565709354c___RS_GLSp 4658.JPG",
+      "green_pixels": 34694,
+      "lesion_pixels": 10952,
+      "affected_percentage": 23.99334005170223,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "66151c80-6947-4062-bbb0-3771e6feefc3___RS_GLSp 7304.JPG",
+      "green_pixels": 31904,
+      "lesion_pixels": 552,
+      "affected_percentage": 1.7007641114123735,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "671065f1-731f-45fa-9c11-3e0080f79ff3___RS_GLSp 4344.JPG",
+      "green_pixels": 48121,
+      "lesion_pixels": 4820,
+      "affected_percentage": 9.104474792693754,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "6807988d-6cd7-4994-8469-8d48de642c2c___RS_GLSp 4380.JPG",
+      "green_pixels": 49261,
+      "lesion_pixels": 8227,
+      "affected_percentage": 14.31081269134428,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "68ddbf53-4695-4c6a-b575-cc03097d46c1___RS_GLSp 4648.JPG",
+      "green_pixels": 21160,
+      "lesion_pixels": 16292,
+      "affected_percentage": 43.50101463206237,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "6b4ebda6-c3d3-4d7e-b38e-cf948ec16dd2___RS_GLSp 9326.JPG",
+      "green_pixels": 41120,
+      "lesion_pixels": 10260,
+      "affected_percentage": 19.968859478396265,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "6b7159c6-3c22-4f68-ac74-4cf4ff12f8e5___RS_GLSp 4381.JPG",
+      "green_pixels": 23486,
+      "lesion_pixels": 18079,
+      "affected_percentage": 43.49572958017563,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "6bb782e3-5856-40e5-9f52-e0f5a0bf51cb___RS_GLSp 4646.JPG",
+      "green_pixels": 34805,
+      "lesion_pixels": 9303,
+      "affected_percentage": 21.091411988754874,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "6c67e4a1-25ee-4c6c-bca5-effa33d24065___RS_GLSp 4680.JPG",
+      "green_pixels": 25670,
+      "lesion_pixels": 10320,
+      "affected_percentage": 28.674631842178382,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "6d5fa9cd-63d6-4b4d-a932-9df6cd8b6524___RS_GLSp 4325.JPG",
+      "green_pixels": 9673,
+      "lesion_pixels": 19508,
+      "affected_percentage": 66.85171858401014,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "6db850c6-2b56-4acf-a283-2cd246c02bfa___RS_GLSp 4474 copy 2.jpg",
+      "green_pixels": 10883,
+      "lesion_pixels": 12866,
+      "affected_percentage": 54.17491262790012,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "6df99d74-ad7b-4ca2-84db-904099c7293c___RS_GLSp 4321.JPG",
+      "green_pixels": 34726,
+      "lesion_pixels": 9892,
+      "affected_percentage": 22.170424492357345,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "6e2464e9-1034-4ee9-9211-63e57ad09031___RS_GLSp 4661.JPG",
+      "green_pixels": 8091,
+      "lesion_pixels": 15247,
+      "affected_percentage": 65.33121947039163,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "6f4b40eb-6d14-4f30-9ef8-89f85bd841fd___RS_GLSp 4426.JPG",
+      "green_pixels": 26566,
+      "lesion_pixels": 21310,
+      "affected_percentage": 44.51081961734481,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "6f69678a-a16a-417a-931b-49a22e810ed8___RS_GLSp 4679.JPG",
+      "green_pixels": 36743,
+      "lesion_pixels": 6505,
+      "affected_percentage": 15.041157972623012,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "6feb357f-c0ff-484f-8c7b-5f4ec92f56cd___RS_GLSp 4338.JPG",
+      "green_pixels": 46247,
+      "lesion_pixels": 6350,
+      "affected_percentage": 12.072931916268988,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "70b19141-ad0c-4370-a809-ab561cd74053___RS_GLSp 7291.JPG",
+      "green_pixels": 43747,
+      "lesion_pixels": 2393,
+      "affected_percentage": 5.186389250108365,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "70f07cb5-244a-4140-99fb-0cc87e8914d5___RS_GLSp 4429.JPG",
+      "green_pixels": 55695,
+      "lesion_pixels": 295,
+      "affected_percentage": 0.5268797999642794,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "710d6f32-5df1-48df-a738-9a03ab158fa4___RS_GLSp 4584.JPG",
+      "green_pixels": 25668,
+      "lesion_pixels": 18980,
+      "affected_percentage": 42.51030281311593,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "7118cb62-d96a-4ae0-8c85-634aa6bc6f62___RS_GLSp 4354.JPG",
+      "green_pixels": 49918,
+      "lesion_pixels": 3750,
+      "affected_percentage": 6.987404039651189,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "714f6741-cb60-432b-91f9-ebd5a8a7ded4___RS_GLSp 7325.JPG",
+      "green_pixels": 35850,
+      "lesion_pixels": 9454,
+      "affected_percentage": 20.867914532933074,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "716dd056-ffe4-4e09-a26f-6c90991b1aff___RS_GLSp 4288 copy.jpg",
+      "green_pixels": 26402,
+      "lesion_pixels": 16981,
+      "affected_percentage": 39.142060254016556,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "719de1a2-172b-44fd-855c-6fa8df27e5bf___RS_GLSp 4652 copy.jpg",
+      "green_pixels": 14225,
+      "lesion_pixels": 15219,
+      "affected_percentage": 51.68795000679256,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "71deb36b-bebd-4f7e-8ed3-362b1bbf86b2___RS_GLSp 4446.JPG",
+      "green_pixels": 51581,
+      "lesion_pixels": 1506,
+      "affected_percentage": 2.8368527134703414,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "7394c8a3-7c6e-486b-a2b3-bb54d7dfba25___RS_GLSp 4334.JPG",
+      "green_pixels": 20491,
+      "lesion_pixels": 17940,
+      "affected_percentage": 46.68106476542375,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "7415a13d-68cb-4e1f-bf40-c869c54fe702___RS_GLSp 4511.JPG",
+      "green_pixels": 22051,
+      "lesion_pixels": 5836,
+      "affected_percentage": 20.927313802130023,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "74967cb3-e984-43f3-9bd3-74ba302b1db7___RS_GLSp 4555.JPG",
+      "green_pixels": 19600,
+      "lesion_pixels": 11304,
+      "affected_percentage": 36.57778928294072,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "7532276c-6dcc-4c1b-9597-14a40d0414dd___RS_GLSp 4606.JPG",
+      "green_pixels": 28344,
+      "lesion_pixels": 17684,
+      "affected_percentage": 38.420092117841314,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "7565238f-ba56-4a1b-93b6-a978fbc19e6a___RS_GLSp 4309.JPG",
+      "green_pixels": 14750,
+      "lesion_pixels": 6961,
+      "affected_percentage": 32.06208834231495,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "7599513c-e2f3-4301-a010-6f32b429d047___RS_GLSp 4286.JPG",
+      "green_pixels": 50297,
+      "lesion_pixels": 1456,
+      "affected_percentage": 2.8133634765134388,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "75c57507-6463-4886-8195-b1319c434ef7___RS_GLSp 4390.JPG",
+      "green_pixels": 13214,
+      "lesion_pixels": 16794,
+      "affected_percentage": 55.965075979738735,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "75d924d6-a630-4e26-9e74-5b1e6dfc5e22___RS_GLSp 4475.JPG",
+      "green_pixels": 19287,
+      "lesion_pixels": 15985,
+      "affected_percentage": 45.319233386255384,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "76b67a93-0c4e-4c52-8952-632052db476b___RS_GLSp 9289.JPG",
+      "green_pixels": 26913,
+      "lesion_pixels": 12839,
+      "affected_percentage": 32.29774602535721,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "76df2cc6-af5f-4f86-9dd7-d637936f9572___RS_GLSp 4609.JPG",
+      "green_pixels": 45291,
+      "lesion_pixels": 6304,
+      "affected_percentage": 12.218238201376103,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "77ae7d6f-8373-481e-b216-6fec69f06145___RS_GLSp 4622.JPG",
+      "green_pixels": 28555,
+      "lesion_pixels": 6899,
+      "affected_percentage": 19.459017318215153,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "782d68b3-4619-4a4b-865f-7071d2552500___RS_GLSp 4593.JPG",
+      "green_pixels": 36706,
+      "lesion_pixels": 5557,
+      "affected_percentage": 13.148616993587773,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "792d473d-472a-43df-b0e1-dba9ab94edd5___RS_GLSp 4330.JPG",
+      "green_pixels": 15749,
+      "lesion_pixels": 22162,
+      "affected_percentage": 58.457967344570186,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "7944b10d-96b5-4219-882d-22b1e2380544___RS_GLSp 7309.JPG",
+      "green_pixels": 33316,
+      "lesion_pixels": 2479,
+      "affected_percentage": 6.925548260930298,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "79aa374c-1687-42d4-bf48-84e8b1beb762___RS_GLSp 4408.JPG",
+      "green_pixels": 30583,
+      "lesion_pixels": 6076,
+      "affected_percentage": 16.574374641970593,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "7a4c407a-5c68-4738-b084-f859cc0b980c___RS_GLSp 4586.JPG",
+      "green_pixels": 28472,
+      "lesion_pixels": 13601,
+      "affected_percentage": 32.32714567537375,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "7a93142b-986d-46d4-ad77-646d64f418dc___RS_GLSp 9341.JPG",
+      "green_pixels": 44755,
+      "lesion_pixels": 3518,
+      "affected_percentage": 7.287717771839331,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "7aaf97df-dc18-4858-887d-e27dfe6c020e___RS_GLSp 7330.JPG",
+      "green_pixels": 40170,
+      "lesion_pixels": 4914,
+      "affected_percentage": 10.899653979238755,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "7b0308b0-8997-4318-b3e0-26c658f8dadf___RS_GLSp 7300.JPG",
+      "green_pixels": 23613,
+      "lesion_pixels": 14224,
+      "affected_percentage": 37.592832412717705,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "7c479d6b-0f9a-4646-8337-445b76d2959e___RS_GLSp 9349.JPG",
+      "green_pixels": 17244,
+      "lesion_pixels": 20093,
+      "affected_percentage": 53.81525028791815,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "7cc0887b-1bbc-49f4-8779-f7ff62aab90e___RS_GLSp 9354.JPG",
+      "green_pixels": 29584,
+      "lesion_pixels": 9998,
+      "affected_percentage": 25.258956091152545,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "7eeafe66-9b88-473c-a2d6-a72edb99c3fa___RS_GLSp 9364.JPG",
+      "green_pixels": 50419,
+      "lesion_pixels": 4164,
+      "affected_percentage": 7.628748877855743,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "7f69942f-70ce-456b-b8cb-1ce937ea6389___RS_GLSp 4418.JPG",
+      "green_pixels": 2981,
+      "lesion_pixels": 35511,
+      "affected_percentage": 92.25553361737504,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "7ff116fc-5095-4377-bcf1-b173f05c9e7b___RS_GLSp 7323.JPG",
+      "green_pixels": 41362,
+      "lesion_pixels": 2157,
+      "affected_percentage": 4.956455800914543,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "801db508-6c7c-45b4-9687-13c73e1e074f___RS_GLSp 7279.JPG",
+      "green_pixels": 20323,
+      "lesion_pixels": 11972,
+      "affected_percentage": 37.07075398668525,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "806c6ae2-671e-425d-9625-604adcf5b46a___RS_GLSp 4289.JPG",
+      "green_pixels": 45749,
+      "lesion_pixels": 9570,
+      "affected_percentage": 17.299661960628356,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "80a35c48-04ed-457d-a7e0-ac5179c7b53a___RS_GLSp 7292.JPG",
+      "green_pixels": 30533,
+      "lesion_pixels": 10194,
+      "affected_percentage": 25.030078326417364,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "81a4c5ce-8c96-43e6-8391-415465688419___RS_GLSp 9274.JPG",
+      "green_pixels": 32223,
+      "lesion_pixels": 4365,
+      "affected_percentage": 11.930141029845851,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "81babd8e-2bdb-4cea-baa9-9ae6d871aa88___RS_GLSp 9301.JPG",
+      "green_pixels": 41841,
+      "lesion_pixels": 7009,
+      "affected_percentage": 14.348004094165814,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "81c07a92-6542-413a-9395-eb6904635197___RS_GLSp 9290.JPG",
+      "green_pixels": 37002,
+      "lesion_pixels": 4708,
+      "affected_percentage": 11.287461040517861,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "8372ebc2-c180-4161-b7b3-0b05a5700d0d___RS_GLSp 9325.JPG",
+      "green_pixels": 29307,
+      "lesion_pixels": 10949,
+      "affected_percentage": 27.198430047694757,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "837474e2-d11d-44b7-b39b-0a21442b1e04___RS_GLSp 4455.JPG",
+      "green_pixels": 24406,
+      "lesion_pixels": 13935,
+      "affected_percentage": 36.34490493205706,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "850945f0-128d-4e93-a2f9-d5e79bd0068c___RS_GLSp 4308.JPG",
+      "green_pixels": 25545,
+      "lesion_pixels": 9021,
+      "affected_percentage": 26.097899670196146,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "8596a96c-faff-424a-9f05-c21f486d63c5___RS_GLSp 4372.JPG",
+      "green_pixels": 34308,
+      "lesion_pixels": 2092,
+      "affected_percentage": 5.747252747252747,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "8665d5b5-d53d-4501-a6bb-011e6ee1ed61___RS_GLSp 4651 copy 2.jpg",
+      "green_pixels": 17447,
+      "lesion_pixels": 13153,
+      "affected_percentage": 42.98366013071895,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "8689aa30-316a-4c89-b3d5-9f0467899cea___RS_GLSp 4498.JPG",
+      "green_pixels": 29124,
+      "lesion_pixels": 12906,
+      "affected_percentage": 30.70663811563169,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "86d512cb-65b5-401d-8b98-43cd03dbe815___RS_GLSp 9332.JPG",
+      "green_pixels": 50757,
+      "lesion_pixels": 2781,
+      "affected_percentage": 5.194441331390788,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "8776bae7-ccdc-46b8-95d6-7bb0610db123___RS_GLSp 4392.JPG",
+      "green_pixels": 21817,
+      "lesion_pixels": 22540,
+      "affected_percentage": 50.814978470140005,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "8788717a-1128-4cc4-a76e-71337500c5df___RS_GLSp 4623 copy.jpg",
+      "green_pixels": 26601,
+      "lesion_pixels": 28385,
+      "affected_percentage": 51.62223111337432,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "87b2cf78-1514-454d-b9c9-8b1296002b6a___RS_GLSp 4386.JPG",
+      "green_pixels": 37303,
+      "lesion_pixels": 4823,
+      "affected_percentage": 11.448986374210701,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "87e9e4cd-55fd-4437-9f93-84cd25e744c2___RS_GLSp 4504.JPG",
+      "green_pixels": 48173,
+      "lesion_pixels": 2558,
+      "affected_percentage": 5.042281839506416,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "88423d75-8546-414c-a037-3292a5194695___RS_GLSp 9298.JPG",
+      "green_pixels": 10617,
+      "lesion_pixels": 22218,
+      "affected_percentage": 67.66560073092737,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "8858dd29-eac0-443a-8213-425bbe223f7e___RS_GLSp 7334.JPG",
+      "green_pixels": 27530,
+      "lesion_pixels": 1579,
+      "affected_percentage": 5.424439176886874,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "8895b194-2dc6-4ed5-8155-1e483d4f93f3___RS_GLSp 4644.JPG",
+      "green_pixels": 19833,
+      "lesion_pixels": 14671,
+      "affected_percentage": 42.51970785995827,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "88bd95d6-469d-4588-94c9-d11c330951bd___RS_GLSp 4468.JPG",
+      "green_pixels": 31501,
+      "lesion_pixels": 6846,
+      "affected_percentage": 17.85276553576551,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "89a78c7f-dac6-426f-a0ad-397ce80e7a29___RS_GLSp 4289 copy 2.jpg",
+      "green_pixels": 40349,
+      "lesion_pixels": 7881,
+      "affected_percentage": 16.34045200082936,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "89d03cba-77b6-4197-9993-434138cf6eba___RS_GLSp 7303.JPG",
+      "green_pixels": 30865,
+      "lesion_pixels": 5024,
+      "affected_percentage": 13.998718270222074,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "89db4731-dd79-48cc-a1d8-0ef44165e613___RS_GLSp 4564.JPG",
+      "green_pixels": 16664,
+      "lesion_pixels": 13192,
+      "affected_percentage": 44.18542336548767,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "89edb9c3-2ae7-4a95-937f-74778fc98df0___RS_GLSp 7287.JPG",
+      "green_pixels": 33078,
+      "lesion_pixels": 10720,
+      "affected_percentage": 24.4760034704781,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "8a3603cd-1ffa-42b5-a6d8-f9c957639a45___RS_GLSp 4677.JPG",
+      "green_pixels": 42730,
+      "lesion_pixels": 3903,
+      "affected_percentage": 8.369609503999314,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "8bc4bad8-0337-4b33-858d-4d97aa0b6e4b___RS_GLSp 9366.JPG",
+      "green_pixels": 48098,
+      "lesion_pixels": 7135,
+      "affected_percentage": 12.91800191914254,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "8d386446-45f5-4a92-b54b-59cbe0e08a3e___RS_GLSp 9329.JPG",
+      "green_pixels": 27085,
+      "lesion_pixels": 10303,
+      "affected_percentage": 27.55697015085054,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "8d7cc082-a5e3-4a8c-a5e2-c81828814f2f___RS_GLSp 4575.JPG",
+      "green_pixels": 40522,
+      "lesion_pixels": 1220,
+      "affected_percentage": 2.922715729960232,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "8da48548-461c-4574-9435-74310d8207a3___RS_GLSp 4387.JPG",
+      "green_pixels": 32502,
+      "lesion_pixels": 14587,
+      "affected_percentage": 30.977510671282037,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "8ead1e08-eb49-4c03-b99f-f46f3597087d___RS_GLSp 4474 copy.jpg",
+      "green_pixels": 25840,
+      "lesion_pixels": 18742,
+      "affected_percentage": 42.03938809384953,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "9043a294-8d22-405f-add1-7e5bf1606e7a___RS_GLSp 4431 copy 2.jpg",
+      "green_pixels": 33225,
+      "lesion_pixels": 10950,
+      "affected_percentage": 24.78777589134126,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "9103b8e5-919c-4d08-a282-25176874769c___RS_GLSp 4653.JPG",
+      "green_pixels": 34003,
+      "lesion_pixels": 4641,
+      "affected_percentage": 12.009626332677776,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "910679a5-f18d-40ac-a00e-9e2c27a45610___RS_GLSp 9327.JPG",
+      "green_pixels": 29466,
+      "lesion_pixels": 11936,
+      "affected_percentage": 28.829525143712864,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "919e2c3d-488e-440e-9841-60348cdb4adf___RS_GLSp 9322.JPG",
+      "green_pixels": 31648,
+      "lesion_pixels": 5287,
+      "affected_percentage": 14.314335995668065,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "9210aee1-c3fc-4a6c-b98b-5b2634482985___RS_GLSp 4682.JPG",
+      "green_pixels": 39424,
+      "lesion_pixels": 8775,
+      "affected_percentage": 18.20577190398141,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "922d9b80-97b2-4251-a073-0d41bddb0654___RS_GLSp 9359.JPG",
+      "green_pixels": 34021,
+      "lesion_pixels": 14660,
+      "affected_percentage": 30.11441835623755,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "93b53cb0-57cd-480f-9314-8cc0ed579782___RS_GLSp 4427.JPG",
+      "green_pixels": 23000,
+      "lesion_pixels": 12548,
+      "affected_percentage": 35.298750984584224,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "94dbcd4e-5fc8-47d6-a944-dc0cc7c6ead5___RS_GLSp 4638 copy.jpg",
+      "green_pixels": 19093,
+      "lesion_pixels": 26033,
+      "affected_percentage": 57.68958028630945,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "950e2b3f-a007-48c5-bb85-8c68336a7e76___RS_GLSp 4453.JPG",
+      "green_pixels": 5553,
+      "lesion_pixels": 26024,
+      "affected_percentage": 82.41441555562594,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "95cb3d00-afba-4a91-b397-8e9287ecd12e___RS_GLSp 4584 copy.jpg",
+      "green_pixels": 32882,
+      "lesion_pixels": 19180,
+      "affected_percentage": 36.840689946602126,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "966ea8fb-bc23-4161-810b-8c2251c6a1cc___RS_GLSp 4474.JPG",
+      "green_pixels": 18245,
+      "lesion_pixels": 17547,
+      "affected_percentage": 49.024921770227984,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "97173da1-f3d9-4b42-8e86-3f2a066c1704___RS_GLSp 4449.JPG",
+      "green_pixels": 28904,
+      "lesion_pixels": 14302,
+      "affected_percentage": 33.10188399759293,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "97231a3c-2a80-4fa6-b619-b6493ab335a4___RS_GLSp 4377.JPG",
+      "green_pixels": 49656,
+      "lesion_pixels": 2577,
+      "affected_percentage": 4.933662627074837,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "978f82a3-d8c1-4ad8-a212-cc8b7b3306b8___RS_GLSp 7343 copy.jpg",
+      "green_pixels": 41582,
+      "lesion_pixels": 2083,
+      "affected_percentage": 4.770411084392534,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "97b35ced-b7ca-4f6d-8c22-5390c3d192c8___RS_GLSp 7307.JPG",
+      "green_pixels": 38053,
+      "lesion_pixels": 6910,
+      "affected_percentage": 15.368191624224362,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "97bc3c85-3c34-47c1-9bb8-5eccc54d0427___RS_GLSp 9267.JPG",
+      "green_pixels": 25036,
+      "lesion_pixels": 13080,
+      "affected_percentage": 34.316297617798305,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "980b6d5a-da0a-4904-82f4-19987a7f635c___RS_GLSp 4559.JPG",
+      "green_pixels": 33287,
+      "lesion_pixels": 16601,
+      "affected_percentage": 33.27653944836433,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "987a84cc-b18d-4d03-916b-41925e23767f___RS_GLSp 7297.JPG",
+      "green_pixels": 28468,
+      "lesion_pixels": 7337,
+      "affected_percentage": 20.491551459293394,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "987f8819-fe72-413a-bf64-9a4d07acf353___RS_GLSp 9351 copy.jpg",
+      "green_pixels": 25288,
+      "lesion_pixels": 18428,
+      "affected_percentage": 42.15390246134139,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "98d0dbe1-2532-419e-9cc4-1ef0da68fb0e___RS_GLSp 4452.JPG",
+      "green_pixels": 10390,
+      "lesion_pixels": 26323,
+      "affected_percentage": 71.69939803339417,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "99238e07-5714-429e-9e3b-cdaebef9ab85___RS_GLSp 3810 copy.jpg",
+      "green_pixels": 52121,
+      "lesion_pixels": 3349,
+      "affected_percentage": 6.037497746529655,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "9a59a663-089f-4722-8bb5-937f18978888___RS_GLSp 7301.JPG",
+      "green_pixels": 20849,
+      "lesion_pixels": 16450,
+      "affected_percentage": 44.10305906324567,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "9ac3c670-7ccf-46a8-870c-c075a26374b0___RS_GLSp 9344.JPG",
+      "green_pixels": 44838,
+      "lesion_pixels": 7795,
+      "affected_percentage": 14.810100127296563,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "9c78e47a-8ed7-4b8f-8230-499e2d135a0a___RS_GLSp 4335.JPG",
+      "green_pixels": 28001,
+      "lesion_pixels": 19270,
+      "affected_percentage": 40.76495102705675,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "9d24f300-aaa7-413a-8abb-bf5b2b662fdc___RS_GLSp 4374 copy.jpg",
+      "green_pixels": 56619,
+      "lesion_pixels": 2268,
+      "affected_percentage": 3.851444291609354,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "9d3711f5-7b4a-4d56-8455-f092daf27a01___RS_GLSp 4306.JPG",
+      "green_pixels": 32354,
+      "lesion_pixels": 9776,
+      "affected_percentage": 23.204367434132447,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "9e4b4ce4-514f-4add-81be-7ebafdacdb46___RS_GLSp 4490.JPG",
+      "green_pixels": 36081,
+      "lesion_pixels": 15356,
+      "affected_percentage": 29.85399615063087,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "9e6ca942-064a-49ec-b7f9-8a1e25b5c0fe___RS_GLSp 4435.JPG",
+      "green_pixels": 48192,
+      "lesion_pixels": 11427,
+      "affected_percentage": 19.166708599607507,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "9f07734a-54f8-4083-b99f-76f3cf329916___RS_GLSp 4625.JPG",
+      "green_pixels": 32455,
+      "lesion_pixels": 18586,
+      "affected_percentage": 36.41386336474599,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "9ff013dc-f099-4a5c-a187-65f5864132a6___RS_GLSp 4397.JPG",
+      "green_pixels": 11957,
+      "lesion_pixels": 21901,
+      "affected_percentage": 64.68486029889539,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "9ffb3724-b220-4e79-9883-f1d3a5141152___RS_GLSp 4688 copy.jpg",
+      "green_pixels": 48176,
+      "lesion_pixels": 2919,
+      "affected_percentage": 5.712887758097661,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a0061e48-b26c-4610-933a-b4f4ce341707___RS_GLSp 7333.JPG",
+      "green_pixels": 33941,
+      "lesion_pixels": 1343,
+      "affected_percentage": 3.8062577939009183,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "a01652a2-273e-4b0c-bc0a-c25f0245cfa9___RS_GLSp 4384.JPG",
+      "green_pixels": 33619,
+      "lesion_pixels": 11930,
+      "affected_percentage": 26.19157390941623,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a0c8342a-b9ca-4604-a2b0-7000bf7cdad2___RS_GLSp 4343.JPG",
+      "green_pixels": 39780,
+      "lesion_pixels": 5909,
+      "affected_percentage": 12.93309111602355,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a142d0e0-bdc3-44ad-9866-545ec2b006c3___RS_GLSp 9361.JPG",
+      "green_pixels": 23014,
+      "lesion_pixels": 19464,
+      "affected_percentage": 45.82136635434813,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a17a47b5-a52e-4708-ac79-f435652966d6___RS_GLSp 4478.JPG",
+      "green_pixels": 26356,
+      "lesion_pixels": 13185,
+      "affected_percentage": 33.34513542904833,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a23ba9aa-4f37-4d07-b4ef-396fcaf6514d___RS_GLSp 4553.JPG",
+      "green_pixels": 8317,
+      "lesion_pixels": 23359,
+      "affected_percentage": 73.74352822326051,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "a23f96ad-07de-46fe-b45d-bd5690db290c___RS_GLSp 4337.JPG",
+      "green_pixels": 35979,
+      "lesion_pixels": 5838,
+      "affected_percentage": 13.960829327785351,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a27ab77f-274b-4785-95f7-4844aa141c32___RS_GLSp 9353.JPG",
+      "green_pixels": 19767,
+      "lesion_pixels": 22619,
+      "affected_percentage": 53.36431840702118,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "a312677c-a2d5-4aa0-bb76-0f1af43fb747___RS_GLSp 4395.JPG",
+      "green_pixels": 31854,
+      "lesion_pixels": 9665,
+      "affected_percentage": 23.27849900045762,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a401fce7-28ad-4d2f-bf98-3ef87ae65ba5___RS_GLSp 4614.JPG",
+      "green_pixels": 30031,
+      "lesion_pixels": 2497,
+      "affected_percentage": 7.676463354648303,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a42e0a8a-560a-4659-96ed-3af63cf57b77___RS_GLSp 9313 copy.jpg",
+      "green_pixels": 19158,
+      "lesion_pixels": 25805,
+      "affected_percentage": 57.3916331205658,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "a47710cd-fdee-4562-8e91-1d7f405ca44f___RS_GLSp 4409.JPG",
+      "green_pixels": 34853,
+      "lesion_pixels": 7417,
+      "affected_percentage": 17.546723444523302,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a4937a5f-feb4-4d93-a75d-210a8d82bb0d___RS_GLSp 9296.JPG",
+      "green_pixels": 22208,
+      "lesion_pixels": 21431,
+      "affected_percentage": 49.109741286463944,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a4d985ef-9631-4c30-894c-cd9bcecded58___RS_GLSp 4477.JPG",
+      "green_pixels": 36016,
+      "lesion_pixels": 7446,
+      "affected_percentage": 17.132207445584648,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a593a2fb-75d0-434e-ad4e-b9272d7b4652___RS_GLSp 4585.JPG",
+      "green_pixels": 18142,
+      "lesion_pixels": 25052,
+      "affected_percentage": 57.998796129092,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "a5ab43da-2672-4993-b24a-46d0cae88fa6___RS_GLSp 9355.JPG",
+      "green_pixels": 23150,
+      "lesion_pixels": 12891,
+      "affected_percentage": 35.76759801337366,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a69da8d8-ed56-4bd8-a6ac-4208b8751cf1___RS_GLSp 9278.JPG",
+      "green_pixels": 35306,
+      "lesion_pixels": 12832,
+      "affected_percentage": 26.65669533424737,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a70422d5-9fb2-4d2f-9780-e341e8ea4c82___RS_GLSp 4380 copy.jpg",
+      "green_pixels": 47208,
+      "lesion_pixels": 8811,
+      "affected_percentage": 15.72859208482836,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a746eab2-b4d5-48f7-9dd6-9f9584a030f1___RS_GLSp 4328 copy.jpg",
+      "green_pixels": 17365,
+      "lesion_pixels": 30922,
+      "affected_percentage": 64.03793981817051,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "a7659e27-ba53-4b85-a0dd-6a1009703831___RS_GLSp 4619.JPG",
+      "green_pixels": 42566,
+      "lesion_pixels": 6212,
+      "affected_percentage": 12.735249497724386,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a768a3ed-74df-4223-a9ec-9c58663d2323___RS_GLSp 4496 copy.jpg",
+      "green_pixels": 15645,
+      "lesion_pixels": 25027,
+      "affected_percentage": 61.5337332808812,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "a79e6eae-3c49-455b-9b51-e34da9ce6d1b___RS_GLSp 4493.JPG",
+      "green_pixels": 36483,
+      "lesion_pixels": 7964,
+      "affected_percentage": 17.917969716741286,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a7dc9342-e554-4245-98f7-d35a3cbd52fe___RS_GLSp 7281.JPG",
+      "green_pixels": 35723,
+      "lesion_pixels": 6123,
+      "affected_percentage": 14.632222912584236,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a89fef58-2ae1-4fcc-ac6e-c9191a3ac3a5___RS_GLSp 9311 copy.jpg",
+      "green_pixels": 36931,
+      "lesion_pixels": 8118,
+      "affected_percentage": 18.020377810828208,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "a95a00bc-f6af-4006-beda-81f8629cf106___RS_GLSp 9308.JPG",
+      "green_pixels": 21356,
+      "lesion_pixels": 8647,
+      "affected_percentage": 28.820451288204513,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a9bc0746-7cb8-4cf7-8998-27afed5648d8___RS_GLSp 7322.JPG",
+      "green_pixels": 23661,
+      "lesion_pixels": 8245,
+      "affected_percentage": 25.84153450761612,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "a9e08234-c1be-4519-a3e3-dd8d9456fab0___RS_GLSp 7336.JPG",
+      "green_pixels": 50034,
+      "lesion_pixels": 834,
+      "affected_percentage": 1.6395376267987731,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "a9eb57c6-db27-467a-aff2-253c58e26722___RS_GLSp 4446 copy.jpg",
+      "green_pixels": 46698,
+      "lesion_pixels": 2875,
+      "affected_percentage": 5.799527968854013,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "aa261076-42a4-45b0-bc3a-e7fab382f194___RS_GLSp 4403.JPG",
+      "green_pixels": 38086,
+      "lesion_pixels": 12913,
+      "affected_percentage": 25.320104315770898,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "aa264c7c-cdcf-4a82-aafb-65e9f076feea___RS_GLSp 4327.JPG",
+      "green_pixels": 8334,
+      "lesion_pixels": 31402,
+      "affected_percentage": 79.02657539762433,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "aa2c6e9d-ce0f-4883-8b49-45412e96478d___RS_GLSp 7306.JPG",
+      "green_pixels": 36526,
+      "lesion_pixels": 871,
+      "affected_percentage": 2.329063828649357,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "aa7c5620-2ec9-4b2c-9091-8ce30597661e___RS_GLSp 9363.JPG",
+      "green_pixels": 48553,
+      "lesion_pixels": 6336,
+      "affected_percentage": 11.543296471059774,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ab5d1489-88e6-467f-b9b2-21b064d60fb0___RS_GLSp 4509.JPG",
+      "green_pixels": 22394,
+      "lesion_pixels": 11256,
+      "affected_percentage": 33.45022288261516,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ab76d00b-1082-49bf-9499-ca0640946ad9___RS_GLSp 9369.JPG",
+      "green_pixels": 46358,
+      "lesion_pixels": 4331,
+      "affected_percentage": 8.54426009587879,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "abf68bb5-f883-4423-8e98-953f5f45a1ed___RS_GLSp 4463 copy.jpg",
+      "green_pixels": 32364,
+      "lesion_pixels": 8548,
+      "affected_percentage": 20.89362534219789,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ac871be5-33e2-4fda-995a-8818e8cb7fa2___RS_GLSp 4663 copy 2.jpg",
+      "green_pixels": 38676,
+      "lesion_pixels": 4121,
+      "affected_percentage": 9.629179615393603,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "aca41693-0f3c-4fae-a692-5fd2a4db2304___RS_GLSp 4389.JPG",
+      "green_pixels": 21013,
+      "lesion_pixels": 16735,
+      "affected_percentage": 44.33347462117198,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "acbed711-885d-4f1d-986f-1fdf9b48cba5___RS_GLSp 7338.JPG",
+      "green_pixels": 42234,
+      "lesion_pixels": 1352,
+      "affected_percentage": 3.101913458449961,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "acd57276-c222-4f47-b9df-c0728aad7183___RS_GLSp 9281.JPG",
+      "green_pixels": 32942,
+      "lesion_pixels": 3178,
+      "affected_percentage": 8.7984496124031,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ad47f4e8-308f-4c56-b50b-19e4f7fedd6d___RS_GLSp 4583.JPG",
+      "green_pixels": 23962,
+      "lesion_pixels": 7239,
+      "affected_percentage": 23.20117944937662,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ad4ace5b-3367-4f16-a5b5-766497b996ec___RS_GLSp 4480 copy.jpg",
+      "green_pixels": 32337,
+      "lesion_pixels": 12094,
+      "affected_percentage": 27.219733969525784,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ade34619-beab-41f6-8cb4-60b336be1cb6___RS_GLSp 7294.JPG",
+      "green_pixels": 35791,
+      "lesion_pixels": 6527,
+      "affected_percentage": 15.42369677205917,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ae1f25a2-402d-4ada-822f-43f0967a566a___RS_GLSp 4324.JPG",
+      "green_pixels": 12185,
+      "lesion_pixels": 19467,
+      "affected_percentage": 61.503222545178815,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "ae535bc2-e24f-437e-ba3c-661fb05c0173___RS_GLSp 4461.JPG",
+      "green_pixels": 17850,
+      "lesion_pixels": 18354,
+      "affected_percentage": 50.696055684454755,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "aee8f52c-50c2-4327-8240-b8767ea8692d___RS_GLSp 9339.JPG",
+      "green_pixels": 38081,
+      "lesion_pixels": 10121,
+      "affected_percentage": 20.997054064146717,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "af1313df-e03d-4bfb-b03f-18380734ec5c___RS_GLSp 4581.JPG",
+      "green_pixels": 32108,
+      "lesion_pixels": 5828,
+      "affected_percentage": 15.362716153521722,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "af14ff53-8f83-49b5-bd35-a9636b21ffa8___RS_GLSp 7339.JPG",
+      "green_pixels": 30919,
+      "lesion_pixels": 1768,
+      "affected_percentage": 5.408878147275676,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "afef777a-61bd-43c8-9159-44e4309b9322___RS_GLSp 7311.JPG",
+      "green_pixels": 39993,
+      "lesion_pixels": 1643,
+      "affected_percentage": 3.946104332788933,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "b0e09c66-6c79-46d4-9eae-26a2870e9f26___RS_GLSp 9270.JPG",
+      "green_pixels": 28502,
+      "lesion_pixels": 12056,
+      "affected_percentage": 29.725331623847328,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b131eadc-23e6-4784-92b4-4aaee4293bb7___RS_GLSp 4431.JPG",
+      "green_pixels": 31191,
+      "lesion_pixels": 10211,
+      "affected_percentage": 24.663059755567364,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b17b326d-8bb8-4cc7-bff3-183d2cc9a624___RS_GLSp 7280.JPG",
+      "green_pixels": 48780,
+      "lesion_pixels": 1980,
+      "affected_percentage": 3.900709219858156,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "b1a62b73-9ab9-464a-99dc-b6fb11130dde___RS_GLSp 4382.JPG",
+      "green_pixels": 19043,
+      "lesion_pixels": 22569,
+      "affected_percentage": 54.236758627319034,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "b2114580-76f0-4608-93db-c4eb2bb06d25___RS_GLSp 9305 copy.jpg",
+      "green_pixels": 37273,
+      "lesion_pixels": 5081,
+      "affected_percentage": 11.996505642914483,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "b2601912-33a1-4fb5-915a-d09d9808c7a1___RS_GLSp 7340.JPG",
+      "green_pixels": 41500,
+      "lesion_pixels": 7157,
+      "affected_percentage": 14.709086051338966,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "b2980d13-da6a-4475-bb60-abed664c5506___RS_GLSp 4678.JPG",
+      "green_pixels": 41117,
+      "lesion_pixels": 5618,
+      "affected_percentage": 12.020969294960949,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "b342337b-b5f2-4d24-9c61-dd7fa4421b5d___RS_GLSp 9315.JPG",
+      "green_pixels": 28826,
+      "lesion_pixels": 6771,
+      "affected_percentage": 19.021265837008734,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "b35100b0-1722-439f-a6fd-ab3c41596df9___RS_GLSp 9346.JPG",
+      "green_pixels": 36333,
+      "lesion_pixels": 5042,
+      "affected_percentage": 12.186102719033233,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "b35e13f3-f06a-4b8e-95a2-f0dd94f51f94___RS_GLSp 9299.JPG",
+      "green_pixels": 14872,
+      "lesion_pixels": 32235,
+      "affected_percentage": 68.42932048315537,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "b3a3ae35-860d-4d65-af43-faa13c3d2834___RS_GLSp 9272.JPG",
+      "green_pixels": 43149,
+      "lesion_pixels": 2292,
+      "affected_percentage": 5.043903083118769,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "b50e4d92-099f-4213-b5b8-0f76afa10124___RS_GLSp 4675.JPG",
+      "green_pixels": 43549,
+      "lesion_pixels": 2081,
+      "affected_percentage": 4.560596099057637,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "b53702bb-dfd5-4791-a550-d691cdb8a822___RS_GLSp 4379.JPG",
+      "green_pixels": 38983,
+      "lesion_pixels": 10875,
+      "affected_percentage": 21.811945926431065,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b60e5a26-af11-4e63-aecf-e526cb61ec5a___RS_GLSp 4341.JPG",
+      "green_pixels": 28894,
+      "lesion_pixels": 9629,
+      "affected_percentage": 24.995457259299638,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b62826b2-1547-4c3d-bb4f-4ebc2e166b9c___RS_GLSp 4651 copy.jpg",
+      "green_pixels": 31342,
+      "lesion_pixels": 3732,
+      "affected_percentage": 10.640360380908936,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "b710abba-f82e-4d13-9d39-1522a1c8ab33___RS_GLSp 4432.JPG",
+      "green_pixels": 31462,
+      "lesion_pixels": 8197,
+      "affected_percentage": 20.668700673239364,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b73cddeb-5b44-404b-9ca5-6f5397f3d518___RS_GLSp 4400.JPG",
+      "green_pixels": 43997,
+      "lesion_pixels": 6986,
+      "affected_percentage": 13.70260675127003,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "b7e76db7-843c-4d65-be3e-d1554987b790___RS_GLSp 4418 copy.jpg",
+      "green_pixels": 7193,
+      "lesion_pixels": 25900,
+      "affected_percentage": 78.26428549844377,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "b7f4aecb-df98-49ef-99a8-538fa645f533___RS_GLSp 4312.JPG",
+      "green_pixels": 18723,
+      "lesion_pixels": 13475,
+      "affected_percentage": 41.8504254922666,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b7fb9cd4-1b3a-400d-8520-514e5dedc7f3___RS_GLSp 4632.JPG",
+      "green_pixels": 30480,
+      "lesion_pixels": 10125,
+      "affected_percentage": 24.935352789065384,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b9a39437-94b7-41e3-b309-080e9a93d5ca___RS_GLSp 4440.JPG",
+      "green_pixels": 27473,
+      "lesion_pixels": 11471,
+      "affected_percentage": 29.45511503697617,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b9bfa8c8-2e32-4a0c-8ac5-aa2b57e9df73___RS_GLSp 4579 copy.jpg",
+      "green_pixels": 30237,
+      "lesion_pixels": 9223,
+      "affected_percentage": 23.373035985808414,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "b9fbe0b3-7f05-4ec3-be16-0cf13b86e8fe___RS_GLSp 4374.JPG",
+      "green_pixels": 54434,
+      "lesion_pixels": 2946,
+      "affected_percentage": 5.134193098640641,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ba32d51c-9800-4110-ad8e-df2ab422a93e___RS_GLSp 4693.JPG",
+      "green_pixels": 7231,
+      "lesion_pixels": 33636,
+      "affected_percentage": 82.30601707979544,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "ba462265-a5c8-4fa8-abb4-24054691eb16___RS_GLSp 3809.JPG",
+      "green_pixels": 17882,
+      "lesion_pixels": 1287,
+      "affected_percentage": 6.713965256403569,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ba7f5741-75f8-4ac1-9107-ca73e244ac9b___RS_GLSp 9350.JPG",
+      "green_pixels": 32917,
+      "lesion_pixels": 9715,
+      "affected_percentage": 22.788046537811972,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "bb7244cb-5a7e-4446-85e0-f9b7db6d197d___RS_GLSp 7295.JPG",
+      "green_pixels": 35136,
+      "lesion_pixels": 8972,
+      "affected_percentage": 20.340981227895167,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "bbde9366-ec3c-4354-815b-5b95b6cdb676___RS_GLSp 4481.JPG",
+      "green_pixels": 30266,
+      "lesion_pixels": 15143,
+      "affected_percentage": 33.34801471074016,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "bbea95f8-cc26-40b6-9436-228f70d605d7___RS_GLSp 7332.JPG",
+      "green_pixels": 30219,
+      "lesion_pixels": 6358,
+      "affected_percentage": 17.382508133526535,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "bc1f8969-f563-4300-b792-93f75d23a483___RS_GLSp 9306.JPG",
+      "green_pixels": 33097,
+      "lesion_pixels": 5386,
+      "affected_percentage": 13.995790348985265,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "bc43c710-9fa2-44a2-8420-94c71c01c2c6___RS_GLSp 7278.JPG",
+      "green_pixels": 25461,
+      "lesion_pixels": 12809,
+      "affected_percentage": 33.47008100339692,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "bc690bb9-1611-4744-844d-0ab174467f54___RS_GLSp 4582.JPG",
+      "green_pixels": 30563,
+      "lesion_pixels": 5703,
+      "affected_percentage": 15.725472894722328,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "bd1ec5bd-8220-4c11-b48f-3f90d35ba40e___RS_GLSp 9295.JPG",
+      "green_pixels": 9909,
+      "lesion_pixels": 33039,
+      "affected_percentage": 76.9279128248114,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "bd9db5fe-e2d1-4c56-807d-2e90ea2fb6bf___RS_GLSp 4406.JPG",
+      "green_pixels": 40555,
+      "lesion_pixels": 9825,
+      "affected_percentage": 19.501786423183802,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "bdfaa7d9-76a6-4e8f-86d2-f3a85d359321___RS_GLSp 4621.JPG",
+      "green_pixels": 46869,
+      "lesion_pixels": 8513,
+      "affected_percentage": 15.371420317070527,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "be07b9de-4629-49c1-bde7-e4c9b79c55ef___RS_GLSp 4495.JPG",
+      "green_pixels": 22639,
+      "lesion_pixels": 12463,
+      "affected_percentage": 35.505099424534215,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "be702c5c-99be-4d1e-a16d-89995cb141dc___RS_GLSp 9293.JPG",
+      "green_pixels": 10296,
+      "lesion_pixels": 20850,
+      "affected_percentage": 66.942785590445,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "bf5a0e46-8924-4bba-9523-ebea44961a54___RS_GLSp 4462.JPG",
+      "green_pixels": 32915,
+      "lesion_pixels": 11765,
+      "affected_percentage": 26.33169203222919,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c0240d98-f8f7-4e02-95a3-0723d1f61ca1___RS_GLSp 4383.JPG",
+      "green_pixels": 20629,
+      "lesion_pixels": 20291,
+      "affected_percentage": 49.58699902248289,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c15dae11-38d1-47c3-99e0-c579ddeb3fb3___RS_GLSp 9269.JPG",
+      "green_pixels": 33961,
+      "lesion_pixels": 8470,
+      "affected_percentage": 19.96182036718437,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c1662485-4a2d-40d0-94f4-7642bdf8dfdb___RS_GLSp 4410.JPG",
+      "green_pixels": 27843,
+      "lesion_pixels": 5627,
+      "affected_percentage": 16.81207051090529,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c17a8d9b-f000-4df3-9673-444de04b7dbd___RS_GLSp 9309.JPG",
+      "green_pixels": 29379,
+      "lesion_pixels": 7004,
+      "affected_percentage": 19.25074897617019,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c1ebd059-b3f2-4cf4-b382-42d1e1d56f56___RS_GLSp 4510.JPG",
+      "green_pixels": 18632,
+      "lesion_pixels": 12616,
+      "affected_percentage": 40.37378392217102,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c29e2fb4-4bc4-4025-a29f-170a3477cd11___RS_GLSp 4317.JPG",
+      "green_pixels": 34294,
+      "lesion_pixels": 13986,
+      "affected_percentage": 28.968516984258493,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c3937239-7444-4c3d-a271-f02d5286fe5a___RS_GLSp 4485.JPG",
+      "green_pixels": 39753,
+      "lesion_pixels": 5197,
+      "affected_percentage": 11.561735261401557,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c43e45f2-4d0b-4a15-a598-d6e64c228981___RS_GLSp 4340.JPG",
+      "green_pixels": 36709,
+      "lesion_pixels": 6991,
+      "affected_percentage": 15.99771167048055,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c47c1b5d-7527-4f1c-a3b0-8d737c5ccbaf___RS_GLSp 4457.JPG",
+      "green_pixels": 36240,
+      "lesion_pixels": 6276,
+      "affected_percentage": 14.761501552356759,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c4bd1ca9-533e-4a74-a4d1-8d633ac76438___RS_GLSp 4318.JPG",
+      "green_pixels": 31687,
+      "lesion_pixels": 12205,
+      "affected_percentage": 27.806889638202865,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c517891d-1411-4f7a-8d34-286ff2a7571f___RS_GLSp 4404.JPG",
+      "green_pixels": 28973,
+      "lesion_pixels": 16937,
+      "affected_percentage": 36.89174471792638,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c5776fbf-edd4-4dcb-889f-4e8971c73dd9___RS_GLSp 9330.JPG",
+      "green_pixels": 40189,
+      "lesion_pixels": 11381,
+      "affected_percentage": 22.06903238316851,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c6df65ae-6f54-4962-a7f3-cc21fd3e5b4d___RS_GLSp 3810 copy 2.jpg",
+      "green_pixels": 55453,
+      "lesion_pixels": 5308,
+      "affected_percentage": 8.735866756636659,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c740d42c-29fd-49cd-a941-afd8429b1f28___RS_GLSp 4688.JPG",
+      "green_pixels": 34084,
+      "lesion_pixels": 4093,
+      "affected_percentage": 10.721114807344737,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c7506909-ffa6-4143-9811-f73e29854443___RS_GLSp 7318.JPG",
+      "green_pixels": 25156,
+      "lesion_pixels": 8820,
+      "affected_percentage": 25.95950082411114,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c7707d46-6667-44ae-bb3c-fc7b2b8bb76c___RS_GLSp 7298.JPG",
+      "green_pixels": 37079,
+      "lesion_pixels": 5866,
+      "affected_percentage": 13.659331703341484,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c7900124-4885-46fa-95b8-f335fbcd48d7___RS_GLSp 4290 copy.jpg",
+      "green_pixels": 24848,
+      "lesion_pixels": 5906,
+      "affected_percentage": 19.204005982961565,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c7b810f0-d451-4fe3-bc13-f1c89273e3e9___RS_GLSp 9331.JPG",
+      "green_pixels": 35372,
+      "lesion_pixels": 8217,
+      "affected_percentage": 18.851086283236597,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c7c98f44-a2a9-4c74-9cff-b0d31e5e05b1___RS_GLSp 4503.JPG",
+      "green_pixels": 39170,
+      "lesion_pixels": 4540,
+      "affected_percentage": 10.386639212994737,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c7e3a7d4-9eb4-4014-8353-c5a1d85621b3___RS_GLSp 9287.JPG",
+      "green_pixels": 29625,
+      "lesion_pixels": 7346,
+      "affected_percentage": 19.869627545914366,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c826221e-a999-4509-a7ed-d62726ca6078___RS_GLSp 4332.JPG",
+      "green_pixels": 33279,
+      "lesion_pixels": 16961,
+      "affected_percentage": 33.75995222929936,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c83abfee-9e52-476e-bb0c-b1121fb57c54___RS_GLSp 4331.JPG",
+      "green_pixels": 19310,
+      "lesion_pixels": 16815,
+      "affected_percentage": 46.54671280276816,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "c8769ca7-614a-4763-a8bc-8d7c7f1b2925___RS_GLSp 4355.JPG",
+      "green_pixels": 48592,
+      "lesion_pixels": 7362,
+      "affected_percentage": 13.157236301247451,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "c98f6b90-ac72-4ea0-99d1-dfe5ff4d791a___RS_GLSp 4447 copy.jpg",
+      "green_pixels": 60708,
+      "lesion_pixels": 2662,
+      "affected_percentage": 4.200725895534164,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "ca1f4a1f-eacf-4fa9-9649-32353c8cc164___RS_GLSp 7342.JPG",
+      "green_pixels": 46412,
+      "lesion_pixels": 3273,
+      "affected_percentage": 6.587501257924927,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "cb07e000-acb9-44cc-abda-a4549ebe6037___RS_GLSp 4417.JPG",
+      "green_pixels": 5579,
+      "lesion_pixels": 24543,
+      "affected_percentage": 81.47865347586482,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "cb647989-23e4-4d54-ba50-7685b19e780d___RS_GLSp 9280.JPG",
+      "green_pixels": 18376,
+      "lesion_pixels": 15848,
+      "affected_percentage": 46.306685366993925,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "cb64c581-2fe4-423c-b510-1574e3a897bb___RS_GLSp 4639.JPG",
+      "green_pixels": 18721,
+      "lesion_pixels": 14642,
+      "affected_percentage": 43.886940622845664,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "cc115c6f-75d2-4fae-b6f9-a1eaa80fb68e___RS_GLSp 9284.JPG",
+      "green_pixels": 30731,
+      "lesion_pixels": 11761,
+      "affected_percentage": 27.678151181398853,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "cc60499e-6802-47fd-b4cb-8ec70207e464___RS_GLSp 9305.JPG",
+      "green_pixels": 33972,
+      "lesion_pixels": 9109,
+      "affected_percentage": 21.143891738817576,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ccc55a8a-35d3-4621-88a0-0f81af01a7ad___RS_GLSp 3811.JPG",
+      "green_pixels": 45145,
+      "lesion_pixels": 3454,
+      "affected_percentage": 7.10714212226589,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ce28178f-e53a-4555-90b4-d7156fd8333a___RS_GLSp 9307.JPG",
+      "green_pixels": 23436,
+      "lesion_pixels": 7433,
+      "affected_percentage": 24.079173280637534,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ce3b19bd-dace-4d23-836e-233b02f12300___RS_GLSp 4505.JPG",
+      "green_pixels": 39112,
+      "lesion_pixels": 5062,
+      "affected_percentage": 11.459229410965726,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ceac7e26-3dbe-48a1-b111-3b4149cda69d___RS_GLSp 9316.JPG",
+      "green_pixels": 36096,
+      "lesion_pixels": 10944,
+      "affected_percentage": 23.26530612244898,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "cf1a5200-6ba7-4b6f-af28-969e47db1c7e___RS_GLSp 4660.JPG",
+      "green_pixels": 23740,
+      "lesion_pixels": 16897,
+      "affected_percentage": 41.58033319388734,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "cfbb5e1c-2812-4467-9748-ee171462c331___RS_GLSp 4371.JPG",
+      "green_pixels": 49633,
+      "lesion_pixels": 2439,
+      "affected_percentage": 4.683899216469504,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "d007f0d4-30a4-4d9c-b193-09cef70b547b___RS_GLSp 4617 copy.jpg",
+      "green_pixels": 5990,
+      "lesion_pixels": 22763,
+      "affected_percentage": 79.16739122874135,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "d07122b2-20b4-4f1b-9071-bd90d77cc478___RS_GLSp 9310.JPG",
+      "green_pixels": 33674,
+      "lesion_pixels": 9137,
+      "affected_percentage": 21.34264558174301,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d072dd28-bda5-4666-bffc-2a70f7fbccb3___RS_GLSp 4651.JPG",
+      "green_pixels": 11713,
+      "lesion_pixels": 20712,
+      "affected_percentage": 63.87663839629916,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "d0df634b-a2ee-4a22-8430-8a3b0e2c68c3___RS_GLSp 7344.JPG",
+      "green_pixels": 40227,
+      "lesion_pixels": 4001,
+      "affected_percentage": 9.0463055078231,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d0e9b297-cb9f-440a-ac87-3ba307edcf6c___RS_GLSp 7308.JPG",
+      "green_pixels": 43819,
+      "lesion_pixels": 2565,
+      "affected_percentage": 5.529924111762677,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d1b2206b-39e5-4444-9ebe-223d0d78880e___RS_GLSp 4407.JPG",
+      "green_pixels": 34070,
+      "lesion_pixels": 8745,
+      "affected_percentage": 20.425084666588813,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d1f96a7c-c108-45a4-82f6-ffe84b0d081f___RS_GLSp 9304.JPG",
+      "green_pixels": 30310,
+      "lesion_pixels": 8929,
+      "affected_percentage": 22.75542190167945,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d1f9878a-eea5-4008-8a1d-b3a88e2654b8___RS_GLSp 4640.JPG",
+      "green_pixels": 24189,
+      "lesion_pixels": 14996,
+      "affected_percentage": 38.269746076304706,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d20981e7-70ec-495a-9921-c48de5793822___RS_GLSp 4339.JPG",
+      "green_pixels": 37689,
+      "lesion_pixels": 4846,
+      "affected_percentage": 11.392970494886564,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d2a1f0d8-2835-4984-80fd-11be9e18ab22___RS_GLSp 4580.JPG",
+      "green_pixels": 31976,
+      "lesion_pixels": 9430,
+      "affected_percentage": 22.774477128918512,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d39aadb4-c3f8-45a0-a92c-913263278c29___RS_GLSp 4654.JPG",
+      "green_pixels": 50045,
+      "lesion_pixels": 4373,
+      "affected_percentage": 8.035943989121247,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d3e2528d-3e05-4dc0-bb6b-56dcf17d01d6___RS_GLSp 7316.JPG",
+      "green_pixels": 32382,
+      "lesion_pixels": 708,
+      "affected_percentage": 2.1396192203082505,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "d46dd43c-2fdf-4235-bada-e7a2c5a04ec0___RS_GLSp 9273.JPG",
+      "green_pixels": 41792,
+      "lesion_pixels": 2486,
+      "affected_percentage": 5.614526401373142,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d4bf70c0-f7fe-4921-9944-a89717811183___RS_GLSp 4373.JPG",
+      "green_pixels": 39070,
+      "lesion_pixels": 2695,
+      "affected_percentage": 6.45277145935592,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d4c4842e-417a-4cc9-8fd5-40c618ddf483___RS_GLSp 4290.JPG",
+      "green_pixels": 38195,
+      "lesion_pixels": 8169,
+      "affected_percentage": 17.619273574324907,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d51d9b23-0d18-472f-932a-c6b86796b596___RS_GLSp 4500 copy 2.jpg",
+      "green_pixels": 30050,
+      "lesion_pixels": 18000,
+      "affected_percentage": 37.460978147762745,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d55fc5ff-b6d1-4eb9-8811-6b039c38f06d___RS_GLSp 9268.JPG",
+      "green_pixels": 32602,
+      "lesion_pixels": 8934,
+      "affected_percentage": 21.509052388289675,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d58e8f58-8a71-4d49-a183-5026f861be1b___RS_GLSp 4563.JPG",
+      "green_pixels": 22113,
+      "lesion_pixels": 14436,
+      "affected_percentage": 39.49766067471066,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d5c6e7d2-c531-4ef2-adb5-987d705923bb___RS_GLSp 4657 copy.jpg",
+      "green_pixels": 33415,
+      "lesion_pixels": 12388,
+      "affected_percentage": 27.046263345195733,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d63f0a92-e489-4acd-b5df-847a83172abc___RS_GLSp 4607.JPG",
+      "green_pixels": 26844,
+      "lesion_pixels": 13656,
+      "affected_percentage": 33.71851851851852,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d703fb4d-1b5e-4fde-8cb9-d639a884e3ee___RS_GLSp 4401.JPG",
+      "green_pixels": 37121,
+      "lesion_pixels": 11544,
+      "affected_percentage": 23.721360320558922,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d7a856cb-b30e-4c26-9814-ce6ca9a9f188___RS_GLSp 4676.JPG",
+      "green_pixels": 40281,
+      "lesion_pixels": 4618,
+      "affected_percentage": 10.285307022428118,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d80bf184-8e5b-41db-a7a0-0784964e0fd2___RS_GLSp 4630.JPG",
+      "green_pixels": 41759,
+      "lesion_pixels": 5221,
+      "affected_percentage": 11.113239676458067,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d890fad9-fcde-4ed6-be88-10e61735cd9c___RS_GLSp 4368.JPG",
+      "green_pixels": 36595,
+      "lesion_pixels": 12291,
+      "affected_percentage": 25.142167491715416,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "d9b6d600-26a3-4f19-9489-4d8be835782a___RS_GLSp 4425.JPG",
+      "green_pixels": 32465,
+      "lesion_pixels": 5405,
+      "affected_percentage": 14.272511222603642,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "d9d2f7df-7161-4d20-b0ee-48f8dc8683de___RS_GLSp 9313.JPG",
+      "green_pixels": 21217,
+      "lesion_pixels": 9477,
+      "affected_percentage": 30.87574118720271,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "da87ef8d-d7ac-409e-9482-a85173ed8922___RS_GLSp 4454.JPG",
+      "green_pixels": 27148,
+      "lesion_pixels": 12347,
+      "affected_percentage": 31.26218508671984,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "dbc02d2a-f3ba-47d8-b79b-744210aa69fc___RS_GLSp 4556.JPG",
+      "green_pixels": 32245,
+      "lesion_pixels": 8797,
+      "affected_percentage": 21.43414063642123,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "dc6a4225-a2a5-4eb8-bd41-852c00def800___RS_GLSp 4388.JPG",
+      "green_pixels": 28795,
+      "lesion_pixels": 15829,
+      "affected_percentage": 35.47194334887056,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "dc846417-563a-4e11-b4ba-b093db6af0b7___RS_GLSp 4430.JPG",
+      "green_pixels": 57915,
+      "lesion_pixels": 201,
+      "affected_percentage": 0.3458600041296717,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "dcfbea5d-0fe7-460b-bd16-3878cef2da71___RS_GLSp 4482.JPG",
+      "green_pixels": 28727,
+      "lesion_pixels": 11904,
+      "affected_percentage": 29.29782678250597,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "dda4a05e-e5cd-471b-9c6b-38f589d863dd___RS_GLSp 4491 copy.jpg",
+      "green_pixels": 26435,
+      "lesion_pixels": 12677,
+      "affected_percentage": 32.41204745346697,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "de3ae60a-a0f9-45cd-b803-edb41b29a42d___RS_GLSp 7286.JPG",
+      "green_pixels": 37294,
+      "lesion_pixels": 11550,
+      "affected_percentage": 23.64671198100074,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "de4b44f2-76c6-40bf-b48a-d69d458bb68d___RS_GLSp 4638 copy 2.jpg",
+      "green_pixels": 28296,
+      "lesion_pixels": 15352,
+      "affected_percentage": 35.172287390029325,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "de571dd2-b61a-488d-8c1a-c95b72720109___RS_GLSp 4647.JPG",
+      "green_pixels": 31531,
+      "lesion_pixels": 10290,
+      "affected_percentage": 24.604863585280125,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "de66a37b-002d-4e21-8f4a-a34976b74892___RS_GLSp 9283.JPG",
+      "green_pixels": 36069,
+      "lesion_pixels": 10958,
+      "affected_percentage": 23.30150764454462,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "df225045-fc7e-4207-a8fa-072f0f262b8b___RS_GLSp 4674.JPG",
+      "green_pixels": 44502,
+      "lesion_pixels": 2736,
+      "affected_percentage": 5.791947161183793,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "dfe650bb-d16a-47ed-85d2-25abcbd0f152___RS_GLSp 4612.JPG",
+      "green_pixels": 41695,
+      "lesion_pixels": 1300,
+      "affected_percentage": 3.0236073962088614,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "e10b0d3a-440b-46cd-a7f4-351196dcd1df___RS_GLSp 4323.JPG",
+      "green_pixels": 14239,
+      "lesion_pixels": 22951,
+      "affected_percentage": 61.712826028502285,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "e16bfc88-93b9-4036-b77f-614967a4ee2f___RS_GLSp 4652.JPG",
+      "green_pixels": 12339,
+      "lesion_pixels": 20208,
+      "affected_percentage": 62.088671766983126,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "e2199152-0f4e-44bf-8edd-4c4392494b8b___RS_GLSp 4578.JPG",
+      "green_pixels": 45823,
+      "lesion_pixels": 4316,
+      "affected_percentage": 8.608069566604838,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "e3d043b6-c62b-4e04-8878-fe26f20025e9___RS_GLSp 9360.JPG",
+      "green_pixels": 26117,
+      "lesion_pixels": 15549,
+      "affected_percentage": 37.31819709115346,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "e415586a-efd4-402a-90dc-5a417ba95313___RS_GLSp 4448.JPG",
+      "green_pixels": 24892,
+      "lesion_pixels": 22912,
+      "affected_percentage": 47.92904359467827,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "e42bbd37-0236-423a-9d85-6f01e27e7d79___RS_GLSp 9324.JPG",
+      "green_pixels": 35604,
+      "lesion_pixels": 7858,
+      "affected_percentage": 18.080161980580737,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "e4be1210-e9dc-44d0-8674-2dc7ecac0acc___RS_GLSp 4659.JPG",
+      "green_pixels": 28264,
+      "lesion_pixels": 12509,
+      "affected_percentage": 30.67961641282221,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "e5021ce3-49e4-4b43-88e4-fdb1d98ede70___RS_GLSp 4695.JPG",
+      "green_pixels": 2136,
+      "lesion_pixels": 27139,
+      "affected_percentage": 92.70367207514944,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "e50fa094-ce6d-475b-91e7-55266a2677ac___RS_GLSp 4379 copy.jpg",
+      "green_pixels": 39336,
+      "lesion_pixels": 9180,
+      "affected_percentage": 18.9215928765768,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "e5d4ffee-90c7-4a04-8fa8-61e496dfefc3___RS_GLSp 4367.JPG",
+      "green_pixels": 34380,
+      "lesion_pixels": 12409,
+      "affected_percentage": 26.521190878197864,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "e669b168-a25c-4770-9d2b-a89e3e6c421a___RS_GLSp 4463.JPG",
+      "green_pixels": 31157,
+      "lesion_pixels": 7271,
+      "affected_percentage": 18.921099198501093,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "e728b124-21b4-4022-aed0-3608564f6b6f___RS_GLSp 4473.JPG",
+      "green_pixels": 21074,
+      "lesion_pixels": 14854,
+      "affected_percentage": 41.34379870852817,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "e760af68-e885-46b4-a823-c4faf290c9d0___RS_GLSp 7299.JPG",
+      "green_pixels": 32866,
+      "lesion_pixels": 13033,
+      "affected_percentage": 28.394954138434386,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "e83678ff-832f-45eb-b95b-766701e6c051___RS_GLSp 9285.JPG",
+      "green_pixels": 30862,
+      "lesion_pixels": 9930,
+      "affected_percentage": 24.343008433026085,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "e90fe656-399f-4863-8014-03dc30e84f8c___RS_GLSp 4326 copy.jpg",
+      "green_pixels": 18358,
+      "lesion_pixels": 26581,
+      "affected_percentage": 59.149068737622116,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "eb6de968-972f-4350-adb2-45196cf94252___RS_GLSp 7329.JPG",
+      "green_pixels": 33051,
+      "lesion_pixels": 8508,
+      "affected_percentage": 20.472099906157514,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "eb963671-b486-4f91-9e7a-8315b81c13fc___RS_GLSp 4287 copy.jpg",
+      "green_pixels": 37748,
+      "lesion_pixels": 9104,
+      "affected_percentage": 19.431401007427645,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "eba7c3d9-7e8e-4cfc-9a84-7eb39671d480___RS_GLSp 9318.JPG",
+      "green_pixels": 33798,
+      "lesion_pixels": 12400,
+      "affected_percentage": 26.840988787393393,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ebf90794-7915-4842-8548-f91f6c2bbf72___RS_GLSp 4471.JPG",
+      "green_pixels": 26764,
+      "lesion_pixels": 16595,
+      "affected_percentage": 38.27348416707028,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ec76caa7-e1a4-440e-9b4c-3ee355aac33b___RS_GLSp 4479.JPG",
+      "green_pixels": 26997,
+      "lesion_pixels": 12120,
+      "affected_percentage": 30.983971163432777,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "eca81238-4c71-4982-a1a7-80c16852c299___RS_GLSp 4467 copy.jpg",
+      "green_pixels": 33884,
+      "lesion_pixels": 9294,
+      "affected_percentage": 21.52485061837047,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ed054cc0-58f1-4ca0-a369-2c04ffba43b0___RS_GLSp 4657.JPG",
+      "green_pixels": 34813,
+      "lesion_pixels": 13968,
+      "affected_percentage": 28.634099341956908,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ed2d6237-f67a-4a5b-bd44-f122388bcd80___RS_GLSp 4620 copy.jpg",
+      "green_pixels": 44172,
+      "lesion_pixels": 8474,
+      "affected_percentage": 16.096189644037533,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "eda51a46-b237-47c4-b19f-97463e2c303a___RS_GLSp 4618.JPG",
+      "green_pixels": 32099,
+      "lesion_pixels": 13266,
+      "affected_percentage": 29.242808332414853,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ee4db8d4-db61-49b3-85d9-bb8f52518815___RS_GLSp 4687.JPG",
+      "green_pixels": 37096,
+      "lesion_pixels": 6926,
+      "affected_percentage": 15.733042569624278,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ee8c711f-3aa3-45b8-95e4-c63f86929ab1___RS_GLSp 4444.JPG",
+      "green_pixels": 50648,
+      "lesion_pixels": 6486,
+      "affected_percentage": 11.352259600238037,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "ef0479e0-c62b-4a8f-a5c6-1957d0a77c8f___RS_GLSp 4396.JPG",
+      "green_pixels": 19971,
+      "lesion_pixels": 8651,
+      "affected_percentage": 30.22500174690797,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ef2f5fe2-b4f0-40b4-8242-e521abeb812e___RS_GLSp 9288.JPG",
+      "green_pixels": 26801,
+      "lesion_pixels": 12871,
+      "affected_percentage": 32.443537003428105,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ef36729c-29b1-4f29-b100-d2490a238842___RS_GLSp 4415.JPG",
+      "green_pixels": 20381,
+      "lesion_pixels": 26654,
+      "affected_percentage": 56.66843839693845,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "ef4b7259-5826-4036-9316-e075afa2c200___RS_GLSp 4599 copy.jpg",
+      "green_pixels": 13513,
+      "lesion_pixels": 42727,
+      "affected_percentage": 75.9726173541963,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "ef8386a2-a2ca-4571-8880-5eaf3c073725___RS_GLSp 4641.JPG",
+      "green_pixels": 16487,
+      "lesion_pixels": 22693,
+      "affected_percentage": 57.91985706993364,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "efab43d9-e45a-4ad2-ac72-2f4c51253d90___RS_GLSp 4438.JPG",
+      "green_pixels": 25487,
+      "lesion_pixels": 12365,
+      "affected_percentage": 32.66670189157772,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "f0519795-ad80-4e8c-9b03-71843202c86e___RS_GLSp 7284.JPG",
+      "green_pixels": 31251,
+      "lesion_pixels": 4980,
+      "affected_percentage": 13.745135381303303,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "f182e161-ba75-4231-9b52-fa148f5794be___RS_GLSp 4692.JPG",
+      "green_pixels": 7745,
+      "lesion_pixels": 33023,
+      "affected_percentage": 81.00225667189953,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "f19f6395-fe3b-427f-b888-49326cafe697___RS_GLSp 4329.JPG",
+      "green_pixels": 14147,
+      "lesion_pixels": 21882,
+      "affected_percentage": 60.73440839323878,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "f421d03e-750a-4423-bf6f-c1ac48795f8d___RS_GLSp 4642.JPG",
+      "green_pixels": 11769,
+      "lesion_pixels": 23297,
+      "affected_percentage": 66.43757485883762,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "f435553d-4d3b-48a8-b13e-7639d330a001___RS_GLSp 4447.JPG",
+      "green_pixels": 51229,
+      "lesion_pixels": 2679,
+      "affected_percentage": 4.969577799213474,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "f4d1410d-4fb6-4d90-ac8c-c96e64374cfa___RS_GLSp 7341.JPG",
+      "green_pixels": 42003,
+      "lesion_pixels": 2616,
+      "affected_percentage": 5.862973172863578,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "f4f3369b-f1e7-4d82-a504-f9ce40d7a997___RS_GLSp 4694.JPG",
+      "green_pixels": 6592,
+      "lesion_pixels": 28119,
+      "affected_percentage": 81.00890207715133,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "f5eb9c66-7174-4f62-8261-7c7520601824___RS_GLSp 9342.JPG",
+      "green_pixels": 43327,
+      "lesion_pixels": 8869,
+      "affected_percentage": 16.99172350371676,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "f60dfedb-02f5-4c39-b66e-9c29a58d0ae4___RS_GLSp 4417 copy.jpg",
+      "green_pixels": 9260,
+      "lesion_pixels": 44907,
+      "affected_percentage": 82.90472058633486,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "f7044e72-6f61-45ce-9636-43f653381797___RS_GLSp 4637 copy.jpg",
+      "green_pixels": 46619,
+      "lesion_pixels": 13269,
+      "affected_percentage": 22.156358535933744,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "f7e05e2b-6cc5-4b61-93e5-00172e3fa47c___RS_GLSp 9328.JPG",
+      "green_pixels": 32619,
+      "lesion_pixels": 13497,
+      "affected_percentage": 29.267499349466565,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "f7ece943-7833-4a22-bb40-9644311794fd___RS_GLSp 4635.JPG",
+      "green_pixels": 13073,
+      "lesion_pixels": 21368,
+      "affected_percentage": 62.042333265584624,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "f8101df7-db23-4241-9362-a00396806364___RS_GLSp 4336.JPG",
+      "green_pixels": 16922,
+      "lesion_pixels": 23701,
+      "affected_percentage": 58.34379538684982,
+      "stage": "critical_stage",
+      "stage_label": "Critical"
+    },
+    {
+      "filename": "f8c850bb-1c2e-4340-8f00-bda707afcfa6___RS_GLSp 4451.JPG",
+      "green_pixels": 28366,
+      "lesion_pixels": 18058,
+      "affected_percentage": 38.89798380148199,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "f8dafa02-edfb-4fc6-bea1-a51cab4d4111___RS_GLSp 4472 copy.jpg",
+      "green_pixels": 25036,
+      "lesion_pixels": 16901,
+      "affected_percentage": 40.30092758184897,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "f91ae22a-3668-40e0-a578-b7a7dd9d481f___RS_GLSp 4437.JPG",
+      "green_pixels": 24123,
+      "lesion_pixels": 11832,
+      "affected_percentage": 32.90780141843971,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "fa0d690b-b3ae-4ddd-b09d-ca8608233a1a___RS_GLSp 4629.JPG",
+      "green_pixels": 45080,
+      "lesion_pixels": 4489,
+      "affected_percentage": 9.056063265347293,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "fa551b43-43d6-4788-8450-6a78a366b5dc___RS_GLSp 4565.JPG",
+      "green_pixels": 17063,
+      "lesion_pixels": 11326,
+      "affected_percentage": 39.89573426327099,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "fadf58aa-98fd-402a-8fdc-d06e250ec265___RS_GLSp 4557.JPG",
+      "green_pixels": 30605,
+      "lesion_pixels": 19978,
+      "affected_percentage": 39.49548267204397,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "fbcc9f67-8f83-4262-b7a6-26bf59d5fefb___RS_GLSp 4424.JPG",
+      "green_pixels": 43133,
+      "lesion_pixels": 4244,
+      "affected_percentage": 8.957933174325095,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "fc90276d-e10b-4697-88b2-d9bbd87f622c___RS_GLSp 7290.JPG",
+      "green_pixels": 46960,
+      "lesion_pixels": 3253,
+      "affected_percentage": 6.478402007448271,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "fce14144-8f76-43b9-9678-beb2984a56fc___RS_GLSp 4375.JPG",
+      "green_pixels": 47472,
+      "lesion_pixels": 1423,
+      "affected_percentage": 2.9103180284282644,
+      "stage": "early_stage",
+      "stage_label": "Early"
+    },
+    {
+      "filename": "fcf73483-d84f-4278-9ef7-5a715c73c8e1___RS_GLSp 4408 copy.jpg",
+      "green_pixels": 42683,
+      "lesion_pixels": 5982,
+      "affected_percentage": 12.292201787732457,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    },
+    {
+      "filename": "fd1e7be2-d635-4d70-85ac-f5d68ce7c2d1___RS_GLSp 4450 copy.jpg",
+      "green_pixels": 30703,
+      "lesion_pixels": 27075,
+      "affected_percentage": 46.86039669078196,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "fe34beba-a661-4164-ace3-4660d8e39c4f___RS_GLSp 4499.JPG",
+      "green_pixels": 26690,
+      "lesion_pixels": 19392,
+      "affected_percentage": 42.08150687904171,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ff4e775c-b6cb-455d-b4c9-b635025078c2___RS_GLSp 4562.JPG",
+      "green_pixels": 30891,
+      "lesion_pixels": 14024,
+      "affected_percentage": 31.223422019369924,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ff619f22-b7a3-422f-a410-6c7b244738f2___RS_GLSp 4615.JPG",
+      "green_pixels": 35353,
+      "lesion_pixels": 12276,
+      "affected_percentage": 25.774213189443408,
+      "stage": "severe_stage",
+      "stage_label": "Severe"
+    },
+    {
+      "filename": "ff8671f5-09be-49d7-8093-2707c3a32489___RS_GLSp 4620.JPG",
+      "green_pixels": 39085,
+      "lesion_pixels": 9336,
+      "affected_percentage": 19.28089052270709,
+      "stage": "moderate_stage",
+      "stage_label": "Moderate"
+    }
+  ]
+}
